@@ -9,13 +9,13 @@ This is simple dev profile to help all of us to be communicate, So the key eleme
     Add your name, github, linkedin and etc to the CONTRIBUTORS.md file
 
 ```
-      # Name: Your Name
-      ## Place: Country
-      ## Job: Your Job Title
-      ## GitHub: [Github Name](Github Link)
-      ## LinkedIn: [LinkedIn Name](LinkedIn Link)
-      ## Twitter: [Handle Name](Twitter Link)
-      ## Portfolio: [Portfolio Name](Portfolio Link)
+      ## Name: Your Name
+      * Place: Country
+      * Job: Your Job Title
+      * GitHub: [Github Name](Github Link)
+      * LinkedIn: [LinkedIn Name](LinkedIn Link)
+      * Twitter: [Handle Name](Twitter Link)
+      * Portfolio: [Portfolio Name](Portfolio Link)
 ```
 * Commit and push
 * git add.

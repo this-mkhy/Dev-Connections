@@ -17,6 +17,12 @@
 * DEV: [jerodsanto](https://dev.to/jerodsanto)
 * Portfolio: [jerodsanto.net](https://jerodsanto.net)
 
+## Name: TheRedSpy15
+* Place: United States
+* GitHub: [TheRedSpy15](https://github.com/TheRedSpy15)
+* DEV: [@theredspy15](https://dev.to/theredspy15)
+* Portfolio: same as GitHub for now
+
 ## Name: Paul Eiche
 * Place: Muskego, WI, USA
 * Job: [Web Developer](https://www.halleonard.com)

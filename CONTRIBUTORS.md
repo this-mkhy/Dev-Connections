@@ -33,11 +33,11 @@
 * Website: [eichefam.net](https://eichefam.net)
 
 ## Name: Ross Henderson
-Place: UK
-Job: Oracle APEX Developer
-Blog: [Ross Henderson's Blog](https://rosshendersonsblog.uk/)
-DEV: [@ScottishRoss](https://dev.to/scottishross)
-GitHub: [ScottishRoss](https://github.com/ScottishRoss/)
-LinkedIn: [Ross Henderson](https://www.linkedin.com/in/ross-henderson-49a67641/)
-Twitter: [@Rhenderson91](https://twitter.com/RHenderson91)
-Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
+* Place: UK
+* Job: Oracle APEX Developer
+* Blog: [Ross Henderson's Blog](https://rosshendersonsblog.uk/)
+* DEV: [@ScottishRoss](https://dev.to/scottishross)
+* GitHub: [ScottishRoss](https://github.com/ScottishRoss/)
+* LinkedIn: [Ross Henderson](https://www.linkedin.com/in/ross-henderson-49a67641/)
+* Twitter: [@Rhenderson91](https://twitter.com/RHenderson91)
+* Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)

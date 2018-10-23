@@ -41,3 +41,11 @@
 * LinkedIn: [Ross Henderson](https://www.linkedin.com/in/ross-henderson-49a67641/)
 * Twitter: [@Rhenderson91](https://twitter.com/RHenderson91)
 * Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
+
+## Name: Dominic Duffin
+* Place: UK
+* Twitter: [@dominicduffin1](https://twitter.com/dominicduffin1)
+* DEV: [@dominicduffin1](https://dev.to/dominicduffin1)
+* CodePen: [@dominicduffin1](https://codepen.io/dominicduffin1/)
+* Mastodon: [@dominicduffin1@toot.cafe](https://toot.cafe/@dominicduffin1)
+* Github: [dominicduffin1](https://github.com/dominicduffin1)

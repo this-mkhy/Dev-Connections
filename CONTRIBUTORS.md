@@ -49,3 +49,9 @@
 * CodePen: [@dominicduffin1](https://codepen.io/dominicduffin1/)
 * Mastodon: [@dominicduffin1@toot.cafe](https://toot.cafe/@dominicduffin1)
 * Github: [dominicduffin1](https://github.com/dominicduffin1)
+
+## Name: Francesco Cartier
+* Place: Italy
+* GitHub: [@cartinez](http://github.com/cartinez)
+* LinkedIn: [Francesco Cartier](https://www.linkedin.com/in/francesco-cartier-47a9479a/)
+* DEV: [@cartinez](https://dev.to/cartinez)

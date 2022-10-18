@@ -61,5 +61,11 @@
 * GitHub: [@Parth Sharma](http://github.com/hack-parthsharma)
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
-* LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+
+## Name: Kenee Patel
+* Place: India
+* Job: Student
+* GitHub: [@KeneePatel](https://github.com/KeneePatel)
+* LinkedIn: [@patelkenee](https://www.linkedin.com/in/patelkenee/)
+* Twitter: [@KPatelD1](https://twitter.com/KPatelD1)
  

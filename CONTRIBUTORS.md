@@ -62,4 +62,10 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+
+## Name: Niki Jiandani
+* Place: Toronto, Canada 
+* GitHub: [@nikijiandani](http://github.com/nikijiandani)
+* Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
+* LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
  

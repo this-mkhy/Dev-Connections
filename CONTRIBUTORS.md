@@ -63,3 +63,7 @@
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
  
+## Name: Anmol Ranjan
+* Place: India 
+* GitHub: [@Anmol Ranjan](http://github.com/anmolranjan1)
+* Portfolio: [Anmol Ranjan](https://hack-parthsharma.github.io)

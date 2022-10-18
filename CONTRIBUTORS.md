@@ -66,4 +66,4 @@
 ## Name: MohZaid Kapadia
 * Place: India
 * GitHub: [KMohZaid](http://github.com/kmohzaid)
-* DEV: [@KMohZaid](https://dev.to/KMohZaid)
+* DEV: [@KMohZaid](https://dev.to/kmohzaid)

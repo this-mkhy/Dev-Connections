@@ -62,4 +62,10 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+
+## Name: Kunal Pitale
+* Place: India 
+* GitHub: [@iamkunalpitale](https://github.com/iamkunalpitale)
+* LinkedIn: [Kunal Pitale](https://www.linkedin.com/in/kunal-pitale-70437657/)
+* Twitter: [@kunalpitale](https://twitter.com/kunalpitale)
  

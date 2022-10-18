@@ -63,3 +63,9 @@
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
  
+## Name: Kenee Patel
+* Place: India 
+* Job: Student
+* GitHub: [@KeneePatel](http://github.com/KeneePatel)
+* LinkedIn: [@patelkenee](https://www.linkedin.com/in/patelkenee/)
+* Twitter: [@KPatelD1](https://twitter.com/KPatelD1)

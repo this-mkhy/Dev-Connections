@@ -62,4 +62,12 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
- 
+
+## Name: Rohan Gope
+* Place: India 
+* GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
+* Portfolio: [Parth Sharma](https://rohan00001.github.io/new-project/)
+* Telegram: [Parth Sharma](@rohan001)
+* LinkedIn: [Parth Sharma](https://www.linkedin.com/in/rohan-gope-a96072199/)
+
+     

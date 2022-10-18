@@ -62,4 +62,8 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
- 
+
+## Name: MohZaid Kapadia
+* Place: India
+* GitHub: [KMohZaid](http://github.com/kmohzaid)
+* DEV: [@KMohZaid](https://dev.to/KMohZaid)

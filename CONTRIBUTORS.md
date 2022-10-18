@@ -2,10 +2,10 @@
 ## Name: Mohamed Khaled Yousef
 * Place: Egypt
 * Job: Front End Developer
-* GitHub: [Mohamed Khaled Yousef](https://github.com/mohamedkhaledyousef)
+* GitHub: [this_mkhy](https://github.com/this-mkhy)
 * LinkedIn: [Mohamed Khaled Yousef](http://linkedin.com/in/mohamed-khaled-yousef-421081a5)
-* Twitter: [mkhy7](https://twitter.com/mkhy7)
-* Portfolio: [mkhy](https://t.co/7OgPsufYku)
+* Twitter: [this_mkhy](https://twitter.com/this_mkhy)
+* Portfolio: [mkhy.dev](https://mkhy.pages.dev/)
 
 
 ## Name: Jerod Santo

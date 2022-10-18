@@ -63,3 +63,8 @@
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
  
+ ## Name: Mario Randrianomearisoa
+* Place: Madagascar 
+* GitHub: [@MaxR522](https://github.com/MaxR522)
+* LinkedIn: [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
+* Twitter: [@RanjaMario](https://twitter.com/RanjaMario)

@@ -67,7 +67,7 @@
 * Place: India 
 * GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
 * Portfolio: [Parth Sharma](https://rohan00001.github.io/new-project/)
-* Telegram: [Parth Sharma](@rohan001)
+* Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
      

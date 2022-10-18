@@ -55,11 +55,16 @@
 * GitHub: [@cartinez](http://github.com/cartinez)
 * LinkedIn: [Francesco Cartier](https://www.linkedin.com/in/francesco-cartier-47a9479a/)
 * DEV: [@cartinez](https://dev.to/cartinez)
- 
+
 ## Name: Sharma Parth
-* Place: India 
+* Place: India
 * GitHub: [@Parth Sharma](http://github.com/hack-parthsharma)
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
- 
+
+## Name: Guilherme Suzuki
+* Place: Brazil
+* GitHub: [@guiszk](http://github.com/guiszk)
+* Portfolio: [Guilherme Suzuki](https://guiszk.gitlab.io/website/)
+* Telegram: [Guilherme Suzuki](@guilherme_suzuki)

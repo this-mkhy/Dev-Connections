@@ -62,4 +62,10 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
- 
+
+## Name: Lens Dorsainvil
+* Place: Massachussetts, USA
+* GitHub: [@Lensco825](http://github.com/Lensco825)
+* Codepen: [Lensco825](codepen.io/lensco825)
+* Replit: [Lensco825](replit.com/@lensco825)
+* DEV: [Lens](https://dev.to/lensco825)

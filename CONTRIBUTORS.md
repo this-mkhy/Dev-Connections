@@ -69,3 +69,13 @@
 * GitHub: [@KeneePatel](http://github.com/KeneePatel)
 * LinkedIn: [@patelkenee](https://www.linkedin.com/in/patelkenee/)
 * Twitter: [@KPatelD1](https://twitter.com/KPatelD1)
+
+
+## Name: Rohan Gope
+* Place: India 
+* GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
+* Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
+* Twitter: [RohanGope6](https://twitter.com/RohanGope6)
+* LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
+
+     

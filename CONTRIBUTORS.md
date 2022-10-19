@@ -98,3 +98,9 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Wanderson José
+* Place: Brasil
+* Job: Student
+* GitHub: [devwander](https://github.com/devwander)
+* LinkedIn: [Wanderson José](https://www.linkedin.com/in/wanderson-jos%C3%A9/)
+* Portfolio: [devwander](https://devwander.github.io/)

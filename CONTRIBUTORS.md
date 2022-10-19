@@ -62,6 +62,10 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+
+## Name: Muhammad Immad
+* Place: Pakistan
+* GitHub: [@itsimmad](http://github.com/itsimmad)
  
 ## Name: Kenee Patel
 * Place: India 

@@ -62,4 +62,10 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+
+## Name: Armel Munyaneza
+* Place: Rwanda 
+* GitHub: [@munyanezaarmel](http://github.com/munyanezaarmel)
+* Portfolio: [Armel Munyaneza](munyanezaarmel.netlify.app)
+* LinkedIn: [Armel Munyaneza](https://www.linkedin.com/in/munyaneza-armel-4b30a8201/)
  

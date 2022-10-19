@@ -63,6 +63,12 @@
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
 
+## Name: Kunal Pitale
+* Place: India 
+* GitHub: [@iamkunalpitale](https://github.com/iamkunalpitale)
+* LinkedIn: [Kunal Pitale](https://www.linkedin.com/in/kunal-pitale-70437657/)
+* Twitter: [@kunalpitale](https://twitter.com/kunalpitale)
+ 
 ## Name: MohZaid Kapadia
 * Place: India
 * GitHub: [KMohZaid](http://github.com/kmohzaid)
@@ -84,7 +90,6 @@
 * GitHub: [@KeneePatel](http://github.com/KeneePatel)
 * LinkedIn: [@patelkenee](https://www.linkedin.com/in/patelkenee/)
 * Twitter: [@KPatelD1](https://twitter.com/KPatelD1)
-
 
 ## Name: Rohan Gope
 * Place: India 

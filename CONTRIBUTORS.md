@@ -1,3 +1,11 @@
+## Name: Swadesh Pal
+* Place: India
+* GitHub: [Swadesh Pal](https://github.com/Swadeshit27)
+* LinkedIn: [Swadesh Pal](https://www.linkedin.com/in/swadesh-pal-204036228/)
+* Twitter: [Swadesh Pal](https://twitter.com/Swadesh_Pal27)
+* Telegram: [Swadesh Pal](@swadesh987)
+
+
 
 ## Name: Mohamed Khaled Yousef
 * Place: Egypt

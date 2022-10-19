@@ -62,6 +62,12 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+ 
+ ## Name: Sneha Das
+* Place: India 
+* GitHub: [@iamsnehadas](https://github.com/iamsnehadas)
+* Telegram: [Sneha Das](@Snow736zx)
+* LinkedIn: [Sneha Das](https://www.linkedin.com/in/sneha-das-3b94b9226/)
 
 ## Name: Muhammad Immad
 * Place: Pakistan

@@ -62,6 +62,11 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+
+## Name: MohZaid Kapadia
+* Place: India
+* GitHub: [KMohZaid](http://github.com/kmohzaid)
+* DEV: [@KMohZaid](https://dev.to/kmohzaid)
  
  ## Name: Sneha Das
 * Place: India 
@@ -88,4 +93,3 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
-     

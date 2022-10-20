@@ -98,3 +98,10 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Ibimina Hart
+* Place: Nigeria
+* Job: Frontend Developer
+* GitHub: [@ibimina](http://github.com/ibimina)
+* Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
+* Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
+* LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)

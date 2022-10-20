@@ -98,3 +98,11 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Emaad Ahmed
+* Place: India
+* Job: Student
+* GitHub: [GigabyteZX1](http://github.com/GigabyteZX1)
+* LinkedIn: [Emaad Ahmed](https://www.linkedin.com/in/emaad-ahmed-511032222)
+* Twitter: [EmaadAhmed93112](https://twitter.com/EmaadAhmed93112)
+* Portfolio: Same as Github
+

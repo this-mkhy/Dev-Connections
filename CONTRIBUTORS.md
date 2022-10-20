@@ -1,3 +1,8 @@
+## Name: Your Name
+* Place: India
+* GitHub: [Swadesh Pal](https://github.com/Swadeshit27)
+* LinkedIn: [Swadesh Pal](https://www.linkedin.com/in/swadesh-pal-204036228/)
+* Twitter: [@Swadesh_Pal27](https://twitter.com/Swadesh_Pal27)
 
 ## Name: Mohamed Khaled Yousef
 * Place: Egypt

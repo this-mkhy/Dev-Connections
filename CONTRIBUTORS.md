@@ -98,3 +98,7 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Tatwansh Jaiswal
+* Place: India 
+* GitHub: [@Tatwansh](https://github.com/Tatwansh)
+* LinkedIn: [TATWANSH JAISWAL](https://www.linkedin.com/in/tatwansh-j-232757217/)

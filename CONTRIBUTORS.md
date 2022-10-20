@@ -63,9 +63,45 @@
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
 
+
 ## Name: Armel Munyaneza
 * Place: Rwanda 
 * GitHub: [@munyanezaarmel](http://github.com/munyanezaarmel)
 * Portfolio: [Armel Munyaneza](munyanezaarmel.netlify.app)
 * LinkedIn: [Armel Munyaneza](https://www.linkedin.com/in/munyaneza-armel-4b30a8201/)
+
+## Name: Kunal Pitale
+* Place: India 
+* GitHub: [@iamkunalpitale](https://github.com/iamkunalpitale)
+* LinkedIn: [Kunal Pitale](https://www.linkedin.com/in/kunal-pitale-70437657/)
+* Twitter: [@kunalpitale](https://twitter.com/kunalpitale)
  
+## Name: MohZaid Kapadia
+* Place: India
+* GitHub: [KMohZaid](http://github.com/kmohzaid)
+* DEV: [@KMohZaid](https://dev.to/kmohzaid)
+ 
+ ## Name: Sneha Das
+* Place: India 
+* GitHub: [@iamsnehadas](https://github.com/iamsnehadas)
+* Telegram: [Sneha Das](@Snow736zx)
+* LinkedIn: [Sneha Das](https://www.linkedin.com/in/sneha-das-3b94b9226/)
+
+## Name: Muhammad Immad
+* Place: Pakistan
+* GitHub: [@itsimmad](http://github.com/itsimmad)
+ 
+## Name: Kenee Patel
+* Place: India 
+* Job: Student
+* GitHub: [@KeneePatel](http://github.com/KeneePatel)
+* LinkedIn: [@patelkenee](https://www.linkedin.com/in/patelkenee/)
+* Twitter: [@KPatelD1](https://twitter.com/KPatelD1)
+
+## Name: Rohan Gope
+* Place: India 
+* GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
+* Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
+* Twitter: [RohanGope6](https://twitter.com/RohanGope6)
+* LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
+

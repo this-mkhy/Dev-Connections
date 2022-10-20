@@ -98,3 +98,7 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Kavya Karthik
+* Place: USA
+* Job: Student
+* GitHub: [kkavya30](https://github.com/kkavya30)

@@ -98,3 +98,9 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Atharva Nimbalkar
+* Place: India 
+* GitHub: [@Atharva-Nimbalkar](https://github.com/Atharva-Nimbalkar)
+* LinkedIn: [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
+
+

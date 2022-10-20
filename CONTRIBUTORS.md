@@ -98,3 +98,7 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Gopi Vaibhav
+* Place: India 
+* GitHub: [@gopivaibhav](http://github.com/gopivaibhav)
+* LinkedIn: [Gopi Vaibhav](https://www.linkedin.com/in/gopivaibhav)

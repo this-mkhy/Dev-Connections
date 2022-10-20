@@ -80,6 +80,12 @@
 * Telegram: [Sneha Das](@Snow736zx)
 * LinkedIn: [Sneha Das](https://www.linkedin.com/in/sneha-das-3b94b9226/)
 
+## Name: Avi Jain
+* Place: India
+* GitHub: [peiche](https://github.com/avijain09)
+* LinkedIn: [Paul Eiche](https://www.linkedin.com/in/avi-jain-33564422b/)
+* Twitter: [wavetree](https://twitter.com/AVIJAIN04637133)
+
 ## Name: Muhammad Immad
 * Place: Pakistan
 * GitHub: [@itsimmad](http://github.com/itsimmad)

@@ -69,6 +69,51 @@
 - Telegram: [Parth Sharma](@robleisrajkumar)
 - LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
 
+## Name: Sharma Parth
+* Place: India
+* GitHub: [@Parth Sharma](http://github.com/hack-parthsharma)
+* Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
+* Telegram: [Parth Sharma](@robleisrajkumar)
+* LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+ 
+## Name: Lens Dorsainvil
+* Place: Massachussetts, USA
+* GitHub: [@Lensco825](http://github.com/Lensco825)
+* Codepen: [Lensco825](codepen.io/lensco825)
+* Replit: [Lensco825](replit.com/@lensco825)
+* DEV: [Lens](https://dev.to/lensco825)
+  
+## Name: Guilherme Suzuki
+* Place: Brazil
+* GitHub: [@guiszk](http://github.com/guiszk)
+* Portfolio: [Guilherme Suzuki](https://guiszk.gitlab.io/website/)
+* Telegram: [Guilherme Suzuki](@guilherme_suzuki)
+ 
+## Name: Anmol Ranjan
+* Place: India 
+* GitHub: [@Anmol Ranjan](http://github.com/anmolranjan1)
+* Portfolio: [Anmol Ranjan](https://hack-parthsharma.github.io)
+  
+## Name: Mario Randrianomearisoa
+* Place: Madagascar 
+* GitHub: [@MaxR522](https://github.com/MaxR522)
+* LinkedIn: [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
+* Twitter: [@RanjaMario](https://twitter.com/RanjaMario)
+ 
+## Name: Sambath Vatana
+* Place: Cambodia
+* GitHub: [vatana7](https://github.com/vatana7)
+* LinkedIn: [vatanasambath](https://www.linkedin.com/in/vatana-sambath-2366601aa/)
+* DEV: [vatana7](https://dev.to/vatana7)
+   
+## Name: Krish Patel
+* Place: India
+* GitHub: [krishpatel2383](https://github.com/krishpatel2383)
+* LinkedIn: [Krish Patel](https://www.linkedin.com/in/krish-patel-32a2bb201/)
+* Twitter: [Krish Patel](https://twitter.com/krishpatel_2383)
+* Telegram: [Krish Patel](https://t.me/krish_patel)
+* Portfolio: same as GitHub for now
+
 ## Name: Kunal Pitale
 * Place: India 
 * GitHub: [@iamkunalpitale](https://github.com/iamkunalpitale)
@@ -111,3 +156,5 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
+  
+ 

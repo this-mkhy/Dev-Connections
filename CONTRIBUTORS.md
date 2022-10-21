@@ -259,6 +259,13 @@
 - LinkedIn: [@KapilKumar7](https://www.linkedin.com/in/kapilkumar7/)
 - Portfolio: [Kapil Kumar](https://kapilkumar7.github.io/Portfolio/)
  
+
+## Name : Vishrut Agarwalla
+- Place: India
+- GitHub: [@Vishrut19](https://github.com/Vishrut19)
+- Twitter: [@Vishrut19](https://twitter.com/vishrut19)
+- LinkedIn : [@Vishrut19] (https://www.linkedin.com/in/vishrut-agarwalla)
+
 ## Name: Ibimina Hart
 * Place: Nigeria
 * Job: Frontend Developer

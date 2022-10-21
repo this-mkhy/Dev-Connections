@@ -175,3 +175,8 @@
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
  
+## Name: Akhilesh Bhaskar
+* Place: India
+* Job: Student
+* GitHub: [iwantdollar](https://github.com/iwantdollar/)
+* LinkedIn: [Akhilesh](https://www.linkedin.com/in/akhilesh-bhaskar-b67389232/)

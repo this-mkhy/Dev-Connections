@@ -175,3 +175,12 @@
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
  
+
+## Name : Shrey Parekh
+- Place: India
+- Job: Student
+- Github: [@talkshrey](https://github.com/talkshrey)
+- Twitter: [@talkshrey](https://twitter.com/talkshrey)
+- LinkedIn: [shrey-parekh](https://www.linkedin.com/in/shrey-parekh-a16644200/)
+- Portfolio: [talkshrey](https://www.talkshrey.me/)
+

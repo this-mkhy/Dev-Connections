@@ -180,6 +180,11 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Nikhil Vashisht
+* Place: India 
+* GitHub: [@nikhilvashisht](http://github.com/nikhilvashisht)
+* LinkedIn: [Nikhil Vashisht](https://www.linkedin.com/in/nikhil-vashisht-9620881b9/)
+
 ## Name: Bikramjit Saha
 * Place: India
 * Github: [Bikramjit21](https://github.com/Bikramjit21)

@@ -1,3 +1,4 @@
+ 
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -120,6 +121,12 @@
 * Telegram: [Krish Patel](https://t.me/krish_patel)
 * Portfolio: same as GitHub for now
 
+## Name: Swadeshit27
+* Place: India
+* GitHub: [Swadesh Pal](https://github.com/Swadeshit27)
+* LinkedIn: [Swadesh Pal](https://www.linkedin.com/in/swadesh-pal-204036228/)
+* Twitter: [@Swadesh_Pal27](https://twitter.com/Swadesh_Pal27)
+ 
 ## Name: Armel Munyaneza
 * Place: Rwanda 
 * GitHub: [@munyanezaarmel](http://github.com/munyanezaarmel)

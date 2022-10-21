@@ -156,12 +156,17 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
-## Name: Viveena
+## Name: Wanderson José
+* Place: Brasil
+* Job: Student
+* GitHub: [devwander](https://github.com/devwander)
+* LinkedIn: [Wanderson José](https://www.linkedin.com/in/wanderson-jos%C3%A9/)
+* Portfolio: [devwander](https://devwander.github.io/)
 
+## Name: Viveena
 - Place: India
 - GitHub: [@viveena30](http://github.com/viveena30)
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
   
- 

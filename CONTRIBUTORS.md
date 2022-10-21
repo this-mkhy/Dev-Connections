@@ -174,6 +174,11 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Tatwansh Jaiswal
+* Place: India 
+* GitHub: [@Tatwansh](https://github.com/Tatwansh)
+* LinkedIn: [TATWANSH JAISWAL](https://www.linkedin.com/in/tatwansh-j-232757217/)
+
 ## Name: Atharva Nimbalkar
 * Place: India 
 * GitHub: [@Atharva-Nimbalkar](https://github.com/Atharva-Nimbalkar)
@@ -207,4 +212,3 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
-  

@@ -114,6 +114,13 @@
 * Telegram: [Krish Patel](https://t.me/krish_patel)
 * Portfolio: same as GitHub for now
 
+
+## Name: Armel Munyaneza
+* Place: Rwanda 
+* GitHub: [@munyanezaarmel](http://github.com/munyanezaarmel)
+* Portfolio: [Armel Munyaneza](munyanezaarmel.netlify.app)
+* LinkedIn: [Armel Munyaneza](https://www.linkedin.com/in/munyaneza-armel-4b30a8201/)
+
 ## Name: Kunal Pitale
 * Place: India 
 * GitHub: [@iamkunalpitale](https://github.com/iamkunalpitale)

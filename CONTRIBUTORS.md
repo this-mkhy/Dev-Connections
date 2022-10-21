@@ -138,6 +138,12 @@
 * GitHub: [@iamkunalpitale](https://github.com/iamkunalpitale)
 * LinkedIn: [Kunal Pitale](https://www.linkedin.com/in/kunal-pitale-70437657/)
 * Twitter: [@kunalpitale](https://twitter.com/kunalpitale)
+
+## Name: Jatin Kansal
+* Place: India
+* Github: [Jatin Kansal](https://github.com/jatinkansal2005)
+* LinkedIn: [Jatin Kansal](https://www.linkedin.com/in/jatin-kansal-140853192/)
+* Twitter: [Jatin Kansal](https://twitter.com/jatinkansal81)
  
 ## Name: MohZaid Kapadia
 * Place: India

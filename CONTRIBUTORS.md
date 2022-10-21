@@ -62,6 +62,14 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+ 
+ ## Name: Krish Patel
+* Place: India
+* GitHub: [krishpatel2383](https://github.com/krishpatel2383)
+* LinkedIn: [Krish Patel](https://www.linkedin.com/in/krish-patel-32a2bb201/)
+* Twitter: [Krish Patel](https://twitter.com/krishpatel_2383)
+* Telegram: [Krish Patel](https://t.me/krish_patel)
+* Portfolio: same as GitHub for now
 
 ## Name: Kunal Pitale
 * Place: India 
@@ -97,4 +105,3 @@
 * Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
-

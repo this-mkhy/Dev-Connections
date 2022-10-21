@@ -231,3 +231,12 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
+ 
+## Name: Ibimina Hart
+* Place: Nigeria
+* Job: Frontend Developer
+* GitHub: [@ibimina](http://github.com/ibimina)
+* Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
+* Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
+* LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+

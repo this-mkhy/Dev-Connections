@@ -161,6 +161,11 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Ujjwal Aggarwal
+* Place: India
+* Job: Student, pursuing degree in computer science
+* GitHub: [UjjwalAggarwal-1](http://github.com/UjjwalAggarwal-1)
+
 ## Name: Wanderson José
 * Place: Brasil
 * Job: Student

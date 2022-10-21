@@ -1,3 +1,4 @@
+ 
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -120,6 +121,12 @@
 * Telegram: [Krish Patel](https://t.me/krish_patel)
 * Portfolio: same as GitHub for now
 
+## Name: Swadeshit27
+* Place: India
+* GitHub: [Swadesh Pal](https://github.com/Swadeshit27)
+* LinkedIn: [Swadesh Pal](https://www.linkedin.com/in/swadesh-pal-204036228/)
+* Twitter: [@Swadesh_Pal27](https://twitter.com/Swadesh_Pal27)
+ 
 ## Name: Armel Munyaneza
 * Place: Rwanda 
 * GitHub: [@munyanezaarmel](http://github.com/munyanezaarmel)
@@ -131,6 +138,12 @@
 * GitHub: [@iamkunalpitale](https://github.com/iamkunalpitale)
 * LinkedIn: [Kunal Pitale](https://www.linkedin.com/in/kunal-pitale-70437657/)
 * Twitter: [@kunalpitale](https://twitter.com/kunalpitale)
+
+## Name: Jatin Kansal
+* Place: India
+* Github: [Jatin Kansal](https://github.com/jatinkansal2005)
+* LinkedIn: [Jatin Kansal](https://www.linkedin.com/in/jatin-kansal-140853192/)
+* Twitter: [Jatin Kansal](https://twitter.com/jatinkansal81)
  
 ## Name: MohZaid Kapadia
 * Place: India
@@ -142,6 +155,12 @@
 * GitHub: [@iamsnehadas](https://github.com/iamsnehadas)
 * Telegram: [Sneha Das](@Snow736zx)
 * LinkedIn: [Sneha Das](https://www.linkedin.com/in/sneha-das-3b94b9226/)
+
+## Name: Avi Jain
+* Place: India
+* GitHub: [peiche](https://github.com/avijain09)
+* LinkedIn: [Paul Eiche](https://www.linkedin.com/in/avi-jain-33564422b/)
+* Twitter: [wavetree](https://twitter.com/AVIJAIN04637133)
 
 ## Name: Muhammad Immad
 * Place: Pakistan
@@ -160,6 +179,44 @@
 * Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
+
+## Name: Khushal Gupta
+* Place: India
+* GitHub: [@khushal-gupta22](https://github.com/Khushal-gupta22)
+* Twittter: [@khushaaalll0_0](https://twitter.com/khushaaalll0_0)
+* LinkedIn: [Khushal Gupta](https://www.linkedin.com/in/khushal-gupta-a899821a3)
+
+## Name: Swarnit Sinha
+* Place: India 
+* GitHub: [@SwarnitSinha](https://github.com/SwarnitSinha)
+* Portfolio: [Swarnit Sinha](https://swarnitsinha.github.io/myportfolio/)
+* Twitter: [@swarnitsinha](https://twitter.com/swarnitsinha)
+* LinkedIn: [Swarnit Sinha](https://www.linkedin.com/in/swarnitsinha)
+
+## Name: Tatwansh Jaiswal
+* Place: India 
+* GitHub: [@Tatwansh](https://github.com/Tatwansh)
+* LinkedIn: [TATWANSH JAISWAL](https://www.linkedin.com/in/tatwansh-j-232757217/)
+
+## Name: Atharva Nimbalkar
+* Place: India 
+* GitHub: [@Atharva-Nimbalkar](https://github.com/Atharva-Nimbalkar)
+* LinkedIn: [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
+
+## Name: Gopi Vaibhav
+* Place: India 
+* GitHub: [@gopivaibhav](http://github.com/gopivaibhav)
+* LinkedIn: [Gopi Vaibhav](https://www.linkedin.com/in/gopivaibhav)
+
+## Name: Kavya Karthik
+* Place: USA
+* Job: Student
+* GitHub: [kkavya30](https://github.com/kkavya30)
+
+## Name: Ujjwal Aggarwal
+* Place: India
+* Job: Student, pursuing degree in computer science
+* GitHub: [UjjwalAggarwal-1](http://github.com/UjjwalAggarwal-1)
 
 ## Name: Wanderson José
 * Place: Brasil
@@ -182,3 +239,4 @@
 * Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+

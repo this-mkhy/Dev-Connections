@@ -174,4 +174,11 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
- 
+
+## Name: Rohit Roy
+- Place: India
+- Job: CSE'24 | Frontend Developer Intern
+- GitHub: [@rohitroy-github](https://github.com/rohitroy-github)
+- Twitter: [@rohitroy_R](https://twitter.com/rohitroy_R)
+- LinkedIn: [Rohit Roy](https://www.linkedin.com/in/roy-rohit/)
+- Portfolio: [Rohit Roy](https://linktr.ee/rohitroy_r)

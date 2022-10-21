@@ -161,6 +161,11 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Kavya Karthik
+* Place: USA
+* Job: Student
+* GitHub: [kkavya30](https://github.com/kkavya30)
+
 ## Name: Ujjwal Aggarwal
 * Place: India
 * Job: Student, pursuing degree in computer science
@@ -179,4 +184,4 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
- 
+  

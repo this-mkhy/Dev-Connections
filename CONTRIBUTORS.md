@@ -180,6 +180,12 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Khushal Gupta
+* Place: India
+* GitHub: [@khushal-gupta22](https://github.com/Khushal-gupta22)
+* Twittter: [@khushaaalll0_0](https://twitter.com/khushaaalll0_0)
+* LinkedIn: [Khushal Gupta](https://www.linkedin.com/in/khushal-gupta-a899821a3)
+
 ## Name: Swarnit Sinha
 * Place: India 
 * GitHub: [@SwarnitSinha](https://github.com/SwarnitSinha)

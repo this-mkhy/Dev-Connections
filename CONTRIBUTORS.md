@@ -175,3 +175,9 @@
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
  
+
+## Name : Vishrut Agarwalla
+- Place: India
+- GitHub: [@Vishrut19](https://github.com/Vishrut19)
+- Twitter: [@Vishrut19](https://twitter.com/vishrut19)
+- LinkedIn : [@Vishrut19] (https://www.linkedin.com/in/vishrut-agarwalla)

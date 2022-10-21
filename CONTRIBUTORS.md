@@ -45,6 +45,13 @@
 - Twitter: [@Rhenderson91](https://twitter.com/RHenderson91)
 - Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
 
+## Name: Your Name
+- Place: Nigeria
+- Job: Student
+- GitHub: [SanDiego2049](https://github.com/SanDiego2049)
+- LinkedIn: [Oreoluwa Alaba](https://www.linkedin.com/in/oreoluwa-alaba-5240b1219)
+- Twitter: [@Sandiego2049](https://twitter.com/Sandiego2049)
+
 ## Name: Dominic Duffin
 
 - Place: UK

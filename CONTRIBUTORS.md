@@ -75,6 +75,12 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
+
+## Name: Niki Jiandani
+* Place: Toronto, Canada 
+* GitHub: [@nikijiandani](http://github.com/nikijiandani)
+* Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
+* LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
  
 ## Name: Lens Dorsainvil
 * Place: Massachussetts, USA
@@ -113,7 +119,6 @@
 * Twitter: [Krish Patel](https://twitter.com/krishpatel_2383)
 * Telegram: [Krish Patel](https://t.me/krish_patel)
 * Portfolio: same as GitHub for now
-
 
 ## Name: Armel Munyaneza
 * Place: Rwanda 
@@ -169,4 +174,4 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
-  
+ 

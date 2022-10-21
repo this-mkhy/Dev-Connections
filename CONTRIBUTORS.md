@@ -63,6 +63,13 @@
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
  
+## Name: Lens Dorsainvil
+* Place: Massachussetts, USA
+* GitHub: [@Lensco825](http://github.com/Lensco825)
+* Codepen: [Lensco825](codepen.io/lensco825)
+* Replit: [Lensco825](replit.com/@lensco825)
+* DEV: [Lens](https://dev.to/lensco825)
+  
 ## Name: Guilherme Suzuki
 * Place: Brazil
 * GitHub: [@guiszk](http://github.com/guiszk)
@@ -129,3 +136,4 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
   
+ 

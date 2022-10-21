@@ -174,6 +174,13 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Swarnit Sinha
+* Place: India 
+* GitHub: [@SwarnitSinha](https://github.com/SwarnitSinha)
+* Portfolio: [Swarnit Sinha](https://swarnitsinha.github.io/myportfolio/)
+* Twitter: [@swarnitsinha](https://twitter.com/swarnitsinha)
+* LinkedIn: [Swarnit Sinha](https://www.linkedin.com/in/swarnitsinha)
+
 ## Name: Tatwansh Jaiswal
 * Place: India 
 * GitHub: [@Tatwansh](https://github.com/Tatwansh)

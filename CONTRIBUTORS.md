@@ -180,6 +180,13 @@
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
+## Name: Akshat Khandelwal
+* Place: India
+* Job: Java & Android Developer
+* GitHub: [@AkshatK1](https://github.com/AkshatK1)
+* LinkedIn: [Akshat Khandelwal](https://www.linkedin.com/in/akshatk1/)
+* Twitter: [MaelstromWhirl](https://twitter.com/MaelstromWhirl)
+
 ## Name: Nikhil Vashisht
 * Place: India 
 * GitHub: [@nikhilvashisht](http://github.com/nikhilvashisht)

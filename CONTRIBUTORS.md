@@ -174,4 +174,12 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
+
+## Name: Kapil
+- Place: India
+- Job:Java Developer
+- GitHub: [@KapilKumar7](http://github.com/KapilKumar7)
+- Twitter: [@KpilKumar7](https://twitter.com/KpilKumar7)
+- LinkedIn: [@KapilKumar7](https://www.linkedin.com/in/kapilkumar7/)
+- Portfolio: [Kapil Kumar](https://kapilkumar7.github.io/Portfolio/)
  

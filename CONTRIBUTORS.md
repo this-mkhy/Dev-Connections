@@ -174,4 +174,9 @@
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
+
+## Name: Mansi Tundele
+- Place: India
+- GitHub: [@Mansi-2000](https://github.com/Mansi-2000)
+- LinkedIn: [Mansi Tundele](https://www.linkedin.com/in/mansi-tundele-49140a204/)
  

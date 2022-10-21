@@ -62,15 +62,19 @@
 * Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
 * Telegram: [Parth Sharma](@robleisrajkumar)
 * LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
-
+  
+ ## Name: Mario Randrianomearisoa
+* Place: Madagascar 
+* GitHub: [@MaxR522](https://github.com/MaxR522)
+* LinkedIn: [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
+* Twitter: [@RanjaMario](https://twitter.com/RanjaMario)
+ 
 ## Name: Sambath Vatana
 * Place: Cambodia
 * GitHub: [vatana7](https://github.com/vatana7)
 * LinkedIn: [vatanasambath](https://www.linkedin.com/in/vatana-sambath-2366601aa/)
 * DEV: [vatana7](https://dev.to/vatana7)
- 
-=======
- 
+   
  ## Name: Krish Patel
 * Place: India
 * GitHub: [krishpatel2383](https://github.com/krishpatel2383)
@@ -113,3 +117,4 @@
 * Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
 * Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 * LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
+ 

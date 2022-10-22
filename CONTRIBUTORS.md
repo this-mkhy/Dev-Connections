@@ -280,3 +280,9 @@
 * Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+* 
+## Name: Advik Sharma
+* Place: USA
+* Job: Student
+* GitHub: [@advik-student-dev](https://github.com/advik-student-dev)
+

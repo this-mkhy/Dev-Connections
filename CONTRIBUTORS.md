@@ -1,4 +1,13 @@
  
+## Name: Shubham Gour
+
+- Place: India
+- Job: Analyst
+- GitHub: [theshubhamgour](https://github.com/theshubhamgour)
+- LinkedIn: [Shubham Gour](http://linkedin.com/in/theshubhamgour)
+- Twitter: [theshubhamgour](https://twitter.com/theshubhamgour)
+- Portfolio: [shubhamgour](https://about.me/sgour/) 
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt

@@ -280,3 +280,12 @@
 * Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+## Name: Ayeola Kehinde
+
+- Place: Nigeria
+- Job: Fullstack Developer
+- GitHub: [@ayeolakenny](https://github.com/ayeolakenny)
+- LinkedIn: [Ayeola Kehinde](https://www.linkedin.com/in/ayeolakenny/)
+- Twitter: [ayeolakenny](https://twitter.com/ayeolakenny)
+- Portfolio: [Ayeola Kehinde](https://ayeolakenny.vercel.app/)

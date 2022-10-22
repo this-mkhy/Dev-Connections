@@ -286,5 +286,5 @@
 - Place: Jalandhar, Punjab, India
 - Job: [CampusAmbassador] Campus Ambassador at Infosys
 - GitHub: [khushpreet-007](https://github.com/khushpreet-007)
-- LinkedIn: [Kushpreet S.](https://www.linkedin.com/in/khushpreet/)
+- LinkedIn: [Khushpreet S.](https://www.linkedin.com/in/khushpreet/)
 - Blog: [blog](https://studyeverthing.blogspot.com/)

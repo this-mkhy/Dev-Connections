@@ -1,4 +1,13 @@
  
+## Name: Muhammad Sameer
+
+- Place: Pakistan
+- Job: Blockchain Developer
+- GitHub: [Sameer-472](https://github.com/Sameer-472)
+- LinkedIn: [Muhammad Sameer](https://www.linkedin.com/in/muhammad-sameer-27ba2a172/)
+- Twitter: [Sameerkhan_45](https://twitter.com/Sameerkhan_45)
+- Portfolio: [Sameer.dev](https://portfolio-sameer.herokuapp.com/project)
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt

@@ -282,7 +282,7 @@
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
 
-## Name: Jerod Santo
+## Name: Khushpreet Singh
 - Place: Jalandhar, Punjab, India
 - Job: [CampusAmbassador] Campus Ambassador at Infosys
 - GitHub: [khushpreet-007](https://github.com/khushpreet-007)

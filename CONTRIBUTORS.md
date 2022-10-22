@@ -280,3 +280,10 @@
 * Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+## Name: Faizan Potrick
+* Place: India
+* Job: Student, Pursuing Degree in Computer Science
+* GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
+* LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
+* Portfolio: Same as GitHub for now

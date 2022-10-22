@@ -280,3 +280,12 @@
 * Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+
+## Name: Israel Gouveia
+* Place: Brasília, Brasil
+* Job: Backend Developer
+* GitHub: [@Israelgrs](https://github.com/Israelgrs)
+* Portfolio: Same as GitHub for now
+* Twitter: [@_IsraeelGouveia](https://twitter.com/_IsraeelGouveia)
+* LinkedIn: [Israel Gouveia](https://www.linkedin.com/in/israel-gouveia-0/)

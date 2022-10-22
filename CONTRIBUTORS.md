@@ -280,3 +280,9 @@
 * Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+## Name: Ruchita Sonawale
+- Place: India
+- Github: [@ruchi-115](https://github.com/ruchi-115)
+- Linkedin: [Ruchita Sonawale](https://www.linkedin.com/in/ruchita-sonawale-475063196/)
+- Portfolio: [Ruchita Sonawale](https://ruchita.vercel.app/)

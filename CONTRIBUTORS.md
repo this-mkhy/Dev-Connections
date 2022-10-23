@@ -86,6 +86,12 @@
 - LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
 
 ## Name: Lens Dorsainvil
+* Place: Massachussetts, USA
+* GitHub: [@Lensco825](http://github.com/Lensco825)
+* Codepen: [Lensco825](https://codepen.io/lensco825)
+* Replit: [Lensco825](https://replit.com/@lensco825)
+* DEV: [Lens](https://dev.to/lensco825)
+  
 
 - Place: Massachussetts, USA
 - GitHub: [@Lensco825](http://github.com/Lensco825)

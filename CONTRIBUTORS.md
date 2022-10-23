@@ -284,6 +284,6 @@
 ## Name: Khushpreet Singh
 - Place: India
 - Job: student
-- GitHub: [khushpreet-007](https://github.com/khushpreet-007)
-- LinkedIn: [Khushpreet S.](https://www.linkedin.com/in/khushpreet/)
+- GitHub: [khushpreet](https://github.com/khushpreet-007)
+- LinkedIn: [Khushpreet](https://www.linkedin.com/in/khushpreet/)
 

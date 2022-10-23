@@ -351,6 +351,14 @@
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
+## Name : Shrey Parekh
+- Place: India
+- Job: Student
+- Github: [@talkshrey](https://github.com/talkshrey)
+- Twitter: [@talkshrey](https://twitter.com/talkshrey)
+- LinkedIn: [shrey-parekh](https://www.linkedin.com/in/shrey-parekh-a16644200/)
+- Portfolio: [talkshrey](https://www.talkshrey.me/)
+
 ## Name: KALISA NGABO KEVIN
 * Place: Rwanda
 * Job: Web && Mobile developer

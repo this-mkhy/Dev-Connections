@@ -1,6 +1,6 @@
 MIT License
-
-Copyright (c) 2022 Badal-05
+ 
+Copyright (c) 2022 Tirth Vanparia and Badal-05
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

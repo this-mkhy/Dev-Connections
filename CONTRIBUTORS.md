@@ -1,3 +1,11 @@
+## Name: Geoffrey Kasuba Sichali
+
+- Place: Zambia
+- Job: Front End Developer
+- GitHub: [kasuba97](https://github.com/kasuba97)
+- LinkedIn: [kasuba97](http://linkedin.com/in/kasuba97)
+- Twitter: [kasuba97](https://twitter.com/kasuba97)
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt

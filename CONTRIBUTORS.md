@@ -419,3 +419,10 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Fahad Ashiq
+* Place: Pakistan
+* Job: Full Stack Software Engineer Level - 1
+* GitHub: [Fahad Ashiq](https://github.com/fahadashiq12)
+* LinkedIn: [Fahad Ashiq](https://www.linkedin.com/in/fahadashiqdev/)
+* Portfolio: [Fahad Ashiq](https://fahadashiqdev.com/)

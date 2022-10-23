@@ -419,3 +419,11 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Chirag Aggarwal
+* Place: India
+* Job: Student, Pursuing Bachelor of Technology in Computer Science Engineering
+* Github: [ChiragAgg5k](https://github.com/ChiragAgg5k)
+* LinkedIn: [Chirag Aggarwal](https://www.linkedin.com/in/chirag-aggarwal-066b97248/)
+* Twitter: [Chirag Aggarwal](https://twitter.com/ChiragAgg5k)
+* Portfolio: Same as Github

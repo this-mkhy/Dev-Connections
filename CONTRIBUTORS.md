@@ -419,3 +419,11 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Zainab Ibraheem
+* Place: Nigeria
+* Job: Data Scientist
+* GitHub: [Zainab Ibraheem](https://github.com/mojiibraheem)
+* LinkedIn: [Zainab Ibraheem](https://www.linkedin.com/in/zainab-ibraheem-494206185/)
+* Twitter: [@ibraheemzainab4](https://twitter.com/IbraheemZainab4)
+* Portfolio: same as GitHub

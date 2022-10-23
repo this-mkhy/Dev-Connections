@@ -281,10 +281,9 @@
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
-
 ## Name: Khushpreet Singh
 - Place: Jalandhar, Punjab, India
-- Job: [CampusAmbassador] Campus Ambassador at Infosys
+- Job: student
 - GitHub: [khushpreet-007](https://github.com/khushpreet-007)
 - LinkedIn: [Khushpreet S.](https://www.linkedin.com/in/khushpreet/)
-- Blog: [blog](https://studyeverthing.blogspot.com/)
+

@@ -45,6 +45,13 @@
 - Twitter: [@Rhenderson91](https://twitter.com/RHenderson91)
 - Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
 
+## Name: Your Name
+- Place: Nigeria
+- Job: Student
+- GitHub: [SanDiego2049](https://github.com/SanDiego2049)
+- LinkedIn: [Oreoluwa Alaba](https://www.linkedin.com/in/oreoluwa-alaba-5240b1219)
+- Twitter: [@Sandiego2049](https://twitter.com/Sandiego2049)
+
 ## Name: Dominic Duffin
 
 - Place: UK
@@ -85,7 +92,12 @@
 - LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
 
 ## Name: Lens Dorsainvil
-
+* Place: Massachussetts, USA
+* GitHub: [@Lensco825](http://github.com/Lensco825)
+* Codepen: [Lensco825](https://codepen.io/lensco825)
+* Replit: [Lensco825](https://replit.com/@lensco825)
+* DEV: [Lens](https://dev.to/lensco825)
+  
 - Place: Massachussetts, USA
 - GitHub: [@Lensco825](http://github.com/Lensco825)
 - Codepen: [Lensco825](codepen.io/lensco825)
@@ -156,6 +168,11 @@
 - LinkedIn: [Jatin Kansal](https://www.linkedin.com/in/jatin-kansal-140853192/)
 - Twitter: [Jatin Kansal](https://twitter.com/jatinkansal81)
 
+* Place: India
+* Github: [Jatin Kansal](https://github.com/jatinkansal2005)
+* LinkedIn: [Jatin Kansal](https://www.linkedin.com/in/jatin-kansal-140853192/)
+* Twitter: [Jatin Kansal](https://twitter.com/jatinkansal81)
+ 
 ## Name: MohZaid Kapadia
 
 - Place: India
@@ -273,7 +290,6 @@
 - GitHub: [UjjwalAggarwal-1](http://github.com/UjjwalAggarwal-1)
 
 ## Name: Wanderson José
-
 - Place: Brasil
 - Job: Student
 - GitHub: [devwander](https://github.com/devwander)
@@ -288,6 +304,35 @@
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
 
+## Name: Rohit Roy
+- Place: India
+- Job: CSE'24 | Frontend Developer Intern
+- GitHub: [@rohitroy-github](https://github.com/rohitroy-github)
+- Twitter: [@rohitroy_R](https://twitter.com/rohitroy_R)
+- LinkedIn: [Rohit Roy](https://www.linkedin.com/in/roy-rohit/)
+- Portfolio: [Rohit Roy](https://linktr.ee/rohitroy_r)
+  
+## Name: Niki Jiandani
+* Place: Toronto, Canada 
+* GitHub: [@nikijiandani](http://github.com/nikijiandani)
+* Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
+* LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
+ 
+## Name: Wanderson José
+* Place: Brasil
+* Job: Student
+* GitHub: [devwander](https://github.com/devwander)
+* LinkedIn: [Wanderson José](https://www.linkedin.com/in/wanderson-jos%C3%A9/)
+* Portfolio: [devwander](https://devwander.github.io/)
+
+## Name: Your Name
+- Place: India
+- Job: Student
+- GitHub: [tejas6859](https://github.com/tejas6859)
+- LinkedIn: [Tejas Gautam](https://www.linkedin.com/in/tejas-gautam-046786240/)
+- Twitter: [Tejas020903](https://twitter.com/Tejas020903)
+- Portfolio: same as github for now 
+
 ## Name: Kapil
 
 - Place: India
@@ -298,6 +343,33 @@
 - Portfolio: [Kapil Kumar](https://kapilkumar7.github.io/Portfolio/)
 
 ## Name : Vishrut Agarwalla
+- Place: India
+- GitHub: [@Vishrut19](https://github.com/Vishrut19)
+- Twitter: [@Vishrut19](https://twitter.com/vishrut19)
+- LinkedIn : [@Vishrut19] (https://www.linkedin.com/in/vishrut-agarwalla)
+
+## Name: Ibimina Hart
+* Place: Nigeria
+* Job: Frontend Developer
+* GitHub: [@ibimina](http://github.com/ibimina)
+* Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
+* Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
+* LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+## Name: KALISA NGABO KEVIN
+* Place: Rwanda
+* Job: Web && Mobile developer
+* GitHub: [kalisaNkevin](https://github.com/kalisaNkevin)
+* LinkedIn: [kalisa-ngabo-kevin](linkedin.com/in/kalisa-ngabo-kevin-6717781b7)
+* Twitter: [Kalisakevin_](https://twitter.com/kalisakevin_)
+* Portfolio: [KNK](https://kalisangabokevin.vercel.app/)
+ 
+## Name: Kevin Paul Babu
+- Place: India
+- GitHub: [@Kevinpaulbabu1820](http://github.com/Kevinpaulbabu1820)
+- LinkedIn: [Kevin Paul Babu](https://www.linkedin.com/in/kevin-paul-babu-737b28187/)
+
+## Name : Vishrut Agarwalla
 
 - Place: India
 - GitHub: [@Vishrut19](https://github.com/Vishrut19)
@@ -305,7 +377,6 @@
 - LinkedIn : [@Vishrut19] (https://www.linkedin.com/in/vishrut-agarwalla)
 
 ## Name: Ibimina Hart
-
 - Place: Nigeria
 - Job: Frontend Developer
 - GitHub: [@ibimina](http://github.com/ibimina)
@@ -320,3 +391,16 @@
 - GitHub: [@Jvictorvieira](https://github.com/Jvictorvieira)
 - Portfolio: [João Victor Vieira](https://jvictorvieira.github.io/Portfolio/)
 - LinkedIn: [João Victor Vieira](https://www.linkedin.com/in/jvictorvieirasantos/)
+* Place: Nigeria
+* Job: Frontend Developer
+* GitHub: [@ibimina](http://github.com/ibimina)
+* Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
+* Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
+* LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+## Name: Faizan Potrick
+* Place: India
+* Job: Student, Pursuing Degree in Computer Science
+* GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
+* LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
+* Portfolio: Same as GitHub for now

@@ -45,7 +45,7 @@
 - Twitter: [@Rhenderson91](https://twitter.com/RHenderson91)
 - Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
 
-## Name: Your Name
+## Name: Oreoluwa Alaba
 - Place: Nigeria
 - Job: Student
 - GitHub: [SanDiego2049](https://github.com/SanDiego2049)
@@ -77,7 +77,6 @@
 - LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
 
 ## Name: Sharma Parth
-
 - Place: India
 - GitHub: [@Parth Sharma](http://github.com/hack-parthsharma)
 - Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
@@ -85,19 +84,12 @@
 - LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
 
 ## Name: Niki Jiandani
-
 - Place: Toronto, Canada
 - GitHub: [@nikijiandani](http://github.com/nikijiandani)
 - Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
 - LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
 
 ## Name: Lens Dorsainvil
-* Place: Massachussetts, USA
-* GitHub: [@Lensco825](http://github.com/Lensco825)
-* Codepen: [Lensco825](https://codepen.io/lensco825)
-* Replit: [Lensco825](https://replit.com/@lensco825)
-* DEV: [Lens](https://dev.to/lensco825)
-  
 - Place: Massachussetts, USA
 - GitHub: [@Lensco825](http://github.com/Lensco825)
 - Codepen: [Lensco825](codepen.io/lensco825)
@@ -167,11 +159,6 @@
 - Github: [Jatin Kansal](https://github.com/jatinkansal2005)
 - LinkedIn: [Jatin Kansal](https://www.linkedin.com/in/jatin-kansal-140853192/)
 - Twitter: [Jatin Kansal](https://twitter.com/jatinkansal81)
-
-* Place: India
-* Github: [Jatin Kansal](https://github.com/jatinkansal2005)
-* LinkedIn: [Jatin Kansal](https://www.linkedin.com/in/jatin-kansal-140853192/)
-* Twitter: [Jatin Kansal](https://twitter.com/jatinkansal81)
  
 ## Name: MohZaid Kapadia
 
@@ -213,6 +200,14 @@
 - Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
 - Twitter: [RohanGope6](https://twitter.com/RohanGope6)
 - LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
+
+## Name: Ansh Mondal
+
+- Place: India
+- Job: Student
+- GitHub: [Ansh Mondal](https://github.com/Ansh1Mondal)
+- LinkedIn: [Ansh Mondal](https://www.linkedin.com/in/ansh1mondal/)
+- Portfolio: [Ansh Mondal](https://anshmondal.netlify.app/)
 
 ## Name: Gaurang Agrawal
 
@@ -391,12 +386,6 @@
 - GitHub: [@Jvictorvieira](https://github.com/Jvictorvieira)
 - Portfolio: [João Victor Vieira](https://jvictorvieira.github.io/Portfolio/)
 - LinkedIn: [João Victor Vieira](https://www.linkedin.com/in/jvictorvieirasantos/)
-* Place: Nigeria
-* Job: Frontend Developer
-* GitHub: [@ibimina](http://github.com/ibimina)
-* Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
-* Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
-* LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
 ## Name: Faizan Potrick
 * Place: India

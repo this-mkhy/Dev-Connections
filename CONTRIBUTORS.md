@@ -419,3 +419,11 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+
+## Name: SM SAIF
+* Place: India
+* Job: Student, Pursuing Degree in Computer Science
+* GitHub: [SAIF0556(https://github.com/FaizanPotrick)
+* LinkedIn: [SM SAIF](linkedin.com/in/sm-saif-b46671217)
+* Portfolio: saif0556.github.io/my-cv/

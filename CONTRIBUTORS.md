@@ -419,10 +419,3 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
-
-## Name: Shivani Badola
-* Place: Delhi,India
-* Job: Student
-* Github: [Shivani Badola](https://github.com/Shivani1917)
-* LinkedIn: [Shivani Badola](https://www.linkedin.com/in/shivani-badola-659aba221/)
-* Twitter: [Shivani Badola](https://twitter.com/ShivaniBadola19)

@@ -318,6 +318,12 @@
 * Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
 * LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
  
+## Name: Akhilesh Bhaskar
+* Place: India
+* Job: Student
+* GitHub: [iwantdollar](https://github.com/iwantdollar/)
+* LinkedIn: [Akhilesh](https://www.linkedin.com/in/akhilesh-bhaskar-b67389232/)
+
 ## Name: Wanderson José
 * Place: Brasil
 * Job: Student

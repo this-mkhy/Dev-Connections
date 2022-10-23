@@ -419,3 +419,9 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Rosita D'mello
+* Place: India
+* Job: Computer Engineering Student
+* GitHub: [rosita-dmello](https://github.com/rosita-dmello)
+* LinkedIn: [rosita-dmello](https://www.linkedin.com/in/rosita-dmello/)

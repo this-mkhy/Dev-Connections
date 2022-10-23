@@ -419,3 +419,11 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Ankan Garai
+* Place: India
+* Job: Student
+* GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
+* LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
+* Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
+* Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)

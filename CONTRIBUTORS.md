@@ -419,3 +419,9 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Amey Dhuri
+* Place: India
+* Job: Student, Pursing Degree in Computer Engineering
+* GitHub: [SayuriYuto](https://github.com/SayuriYuto)
+* LinkedIn: [Amey Dhuri](https://www.linkedin.com/in/dhuriamey02)

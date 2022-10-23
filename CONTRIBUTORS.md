@@ -419,3 +419,10 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Dellucifer
+* Place: India
+* Job: Student, Pursuing Degree in ECE
+* GitHub: [Dellucifer](https://github.com/dellucifer)
+* LinkedIn: [LinkedIn](www.linkedin.com/in/faizan-potrick)
+* Portfolio: Same as GitHub for now

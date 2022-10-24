@@ -1,3 +1,11 @@
+## Name: Syed Jafer K
+
+- Place: India
+- Job: Full Stack Developer
+- GitHub: [syedjafer](https://github.com/syedjafer)
+- LinkedIn: [Syed Jafer K](https://www.linkedin.com/in/syedjaferk/)
+- Twitter: [Syed Jafer K](https://twitter.com/syedjafer_k)
+- Portfolio: [makereading.com](https://makereading.com)
 
 ## Name: Mohamed Khaled Yousef
 

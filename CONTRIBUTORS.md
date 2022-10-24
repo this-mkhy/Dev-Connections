@@ -419,3 +419,11 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Shubh Sardana
+- Place: India
+- Job: Student
+- Github: [@shubhsardana29](https://github.com/shubhsardana29)
+- Twitter: [@NotSoShubhhh](https://twitter.com/NotSoShubhhh)
+- LinkedIn: [shubh-sardana](https://www.linkedin.com/in/shubh-sardana-76a750215/)
+- Portfolio: [shubhsardana](https://portfolio-shubhsardana.netlify.app)

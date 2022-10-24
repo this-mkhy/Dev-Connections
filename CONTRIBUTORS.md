@@ -513,6 +513,14 @@
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
 
+## Name: John Marcial
+- Place: Philippines
+- Job: DevOps Engineer
+- GitHub: [@john121904](https://github.com/John121904)
+- Portfolio: [John Marcial](https://john121904.github.io/Profile-Card/)
+- Twitter: [@virtnewb](https://twitter.com/virtnewb)
+- LinkedIn: [John Marcial](https://www.linkedin.com/in/johnmarloumarcial/)
+
 ## Name: Zainab Ibraheem
 * Place: Nigeria
 * Job: Data Scientist

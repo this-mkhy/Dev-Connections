@@ -612,3 +612,9 @@
 * LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+## Name: Adwaith Krishna
+      * Place: India
+      * Job: Student persuing CSE
+      * GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
+      * LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)

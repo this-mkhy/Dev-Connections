@@ -373,6 +373,13 @@
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
+## Name: Ashmit JaiSarita Gupta
+* Place: India
+* Job: Student
+* GitHub: [@devilkiller-ag](http://github.com/devilkiller-ag)
+* LinkedIn: [@jaisarita](https://www.linkedin.com/in/jaisarita/)
+* Twitter: [Handle Name](https://twitter.com/jaisarita)
+
 ## Name: Rishi Agarwal
 * Place: India
 * Job: Student

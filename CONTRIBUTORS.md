@@ -419,3 +419,10 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Satyapriyo Biswas
+* Place: India
+* Job: Student, Pursuing b.tech in Information technology
+* GitHub: [Satyapriyo](https://github.com/Satyapriyo)
+* LinkedIn: [Satyapriyo Biswas](https://www.linkedin.com/in/satyapriyo-biswas-b88073225/)
+* Portfolio: [Satyapriyo](https://portfolio-satyapriyo.vercel.app/)

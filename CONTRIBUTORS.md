@@ -562,6 +562,13 @@
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
 
+## Name: Aryan Gurung
+* Place: India
+* Job: Student
+* GitHub: [h3athen](https://github.com/h3athen)
+* LinkedIn: [Aryan Gurung](https://www.linkedin.com/in/aryan-gurung-8743ba187/)
+* Portfolio: [H3athen Portfolio](https://h3athen.github.io)
+
 ## Name: Dellucifer
 * Place: India
 * Job: Student, Pursuing Degree in ECE

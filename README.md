@@ -6,7 +6,7 @@ This repository is for everyone who wants to participate in Hacktoberfest 2022.
 <br>
 <h2>Hacktober Fest 2022 For Everyone!👋👋</h2>
 <br>
-<img src = "https://github.com/this-mkhy/Dev-Connections/blob/main/Images/download.jfif" alt= "Its time to contribute!!" height = "100%" width = "100%">
+<img src = "https://raw.githubusercontent.com/this-mkhy/Dev-Connections/master/Images/why-contribute.gif" alt= "Its time to contribute!!" height = "100%" width = "100%">
 <h3>🎖️🎖️Rewards ::🎖️🎖️</h3>
 <h5>You can get awesome goodies like T-Shirt and some stickers for FREE!!!🤩🤩</h5>
 
@@ -38,7 +38,9 @@ This repository is for everyone who wants to participate in Hacktoberfest 2022.
 
 <h5>Thanks for contributing. It's an amazing experience to collaborate with you all!</h5>
 <br>
-<img src = "https://github.com/this-mkhy/Dev-Connections/blob/main/Images/code.avif" >
+<p align="center">
+  <img src="https://raw.githubusercontent.com/this-mkhy/Dev-Connections/master/Images/code.avif" />
+</p>
 
 ## Contributors 
 

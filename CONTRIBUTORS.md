@@ -1,3 +1,11 @@
+## Name: Austin Labador
+
+- Place: United States
+- Job: Front End Developer
+- GitHub: [alabador](https://github.com/alabador)
+- LinkedIn: [Austin Labador](https://www.linkedin.com/in/austinlabador/)
+- Twitter: [alabador_v2](https://twitter.com/alabador_v2)
+- Portfolio: [Github Portfolio for now](https://github.com/alabador)
 
 ## Name: Mohamed Khaled Yousef
 

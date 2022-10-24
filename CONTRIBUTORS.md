@@ -1,3 +1,5 @@
+ 
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -299,6 +301,15 @@
 - LinkedIn: [Viveena](https://www.linkedin.com/in/viveena-rathi-8977a6205/)
 - Portfolio: [Viveena](https://viveena.netlify.app/)
 
+## Name: Muhammad Sameer
+
+- Place: Pakistan
+- Job: Blockchain Developer
+- GitHub: [Sameer-472](https://github.com/Sameer-472)
+- LinkedIn: [Muhammad Sameer](https://www.linkedin.com/in/muhammad-sameer-27ba2a172/)
+- Twitter: [Sameerkhan_45](https://twitter.com/Sameerkhan_45)
+- Portfolio: [Sameer.dev](https://portfolio-sameer.herokuapp.com/project)
+
 ## Name: Mansi Tundele
 - Place: India
 - GitHub: [@Mansi-2000](https://github.com/Mansi-2000)
@@ -362,7 +373,46 @@
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
+## Name: Rishi Agarwal
+* Place: India
+* Job: Student
+* Github: [@LegendaryGene](https://github.com/LegendaryGene)
+* Twitter: [@_rishi_agarwal_](https://twitter.com/_rishi_agarwal_)
+* LinkedIn: [@-rishi-agarwal-](https://www.linkedin.com/-rishi-agarwal-)
+
+## Name: Ayeola Kehinde
+
+- Place: Nigeria
+- Job: Fullstack Developer
+- GitHub: [@ayeolakenny](https://github.com/ayeolakenny)
+- LinkedIn: [Ayeola Kehinde](https://www.linkedin.com/in/ayeolakenny/)
+- Twitter: [ayeolakenny](https://twitter.com/ayeolakenny)
+- Portfolio: [Ayeola Kehinde](https://ayeolakenny.vercel.app/)
+
+## Name: Israel Gouveia
+* Place: Brasília, Brasil
+* Job: Backend Developer
+* GitHub: [@Israelgrs](https://github.com/Israelgrs)
+* Portfolio: Same as GitHub for now
+* Twitter: [@_IsraeelGouveia](https://twitter.com/_IsraeelGouveia)
+* LinkedIn: [Israel Gouveia](https://www.linkedin.com/in/israel-gouveia-0/)
+
+## Name: Advik Sharma
+- Place: USA
+- Job: Student
+- GitHub: [@advik-student-dev](https://github.com/advik-student-dev)
+
+## Name: Hrishitosh Thakur
+
+* Place: Uttar Pradesh, India
+* 3rd year CS Engineering Student
+* GitHub: [@itsmeHrishi](https://github.com/itsmeHrishi/)
+* Twitter: [@itshrishi_t](https://twitter.com/itshrishi_t)
+* Linkedin: [Hrishitosh Thakur](https://www.linkedin.com/in/itshrishi-t/)
+* Linktree: [Hrishitosh Thakur](https://linktr.ee/itshrishi_t)
+
 ## Name : Shrey Parekh
+
 - Place: India
 - Job: Student
 - Github: [@talkshrey](https://github.com/talkshrey)
@@ -371,6 +421,7 @@
 - Portfolio: [talkshrey](https://www.talkshrey.me/)
 
 ## Name: KALISA NGABO KEVIN
+
 * Place: Rwanda
 * Job: Web && Mobile developer
 * GitHub: [kalisaNkevin](https://github.com/kalisaNkevin)
@@ -379,6 +430,7 @@
 * Portfolio: [KNK](https://kalisangabokevin.vercel.app/)
  
 ## Name: Bilwa Gaonker
+
 * Place: India (Goa)
 * Job: Associate Software Engineer @Schlumberger
 * GitHub: [bilwagaonker](https://github.com/bilwagaonker)
@@ -386,6 +438,7 @@
 * LinkedIn: [Bilwa Gaonker](https://www.linkedin.com/in/bilwa-gaonker/)
 
 ## Name: Kevin Paul Babu
+
 - Place: India
 - GitHub: [@Kevinpaulbabu1820](http://github.com/Kevinpaulbabu1820)
 - LinkedIn: [Kevin Paul Babu](https://www.linkedin.com/in/kevin-paul-babu-737b28187/)
@@ -398,6 +451,7 @@
 - LinkedIn : [@Vishrut19] (https://www.linkedin.com/in/vishrut-agarwalla)
 
 ## Name: Ibimina Hart
+
 - Place: Nigeria
 - Job: Frontend Developer
 - GitHub: [@ibimina](http://github.com/ibimina)
@@ -414,6 +468,7 @@
 - LinkedIn: [João Victor Vieira](https://www.linkedin.com/in/jvictorvieirasantos/)
 
 ## Name: Faizan Potrick
+
 * Place: India
 * Job: Student, Pursuing Degree in Computer Science
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
@@ -425,3 +480,11 @@
       * Job: Student persuing CSE
       * GitHub: [Ayushsgit](https://github.com/Ayushsgit)
       * Twitter: [Ayushsstwt](https://twitter.com/Ayushsstwt)
+
+## Name: Ankan Garai
+* Place: India
+* Job: Student
+* GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
+* LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
+* Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
+* Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)

@@ -1,4 +1,3 @@
-
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -645,3 +644,13 @@
 * LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+## Name: Rachel Schipull
+
+-Place: Durham, NC, USA
+-Job: Full Stack Developer
+-GitHub: [rachelschipull](https://github.com/rachelschipull)
+-LinkedIn: [Rachel Schipull](https://www.linkedin.com/in/rachelschipull/)
+-Twitter: [SchipThatCode](https://twitter.com/SchipThatCode)
+-Portfolio: [rachelschipull.com](https://rachelschipull.com/)
+

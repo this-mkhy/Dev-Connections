@@ -475,6 +475,12 @@
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
 
+## Name: Ayush Shrotriya
+      * Place: India
+      * Job: Student persuing CSE
+      * GitHub: [Ayushsgit](https://github.com/Ayushsgit)
+      * Twitter: [Ayushsstwt](https://twitter.com/Ayushsstwt)
+
 ## Name: Ankan Garai
 * Place: India
 * Job: Student

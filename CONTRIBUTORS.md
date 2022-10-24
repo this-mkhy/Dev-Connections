@@ -382,6 +382,14 @@
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
+## Name: Thomas Vu
+* Place: USA
+* Job: Software Engineer
+* GitHub: [@thomasjvu](https://github.com/thomasjvu)
+* LinkedIn: [@thomasjvu](https://linkedin.com/in/thomasjvu)
+* Twitter: [@thomasjvu_](https://twitter.com/thomasjvu_)
+* Portfolio: [@thomasjvu](https://thomasjvu.com)
+
 ## Name: Ashmit JaiSarita Gupta
 * Place: India
 * Job: Student

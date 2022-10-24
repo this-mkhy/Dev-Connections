@@ -624,6 +624,15 @@
 - Twitter: [@virtnewb](https://twitter.com/virtnewb)
 - LinkedIn: [John Marcial](https://www.linkedin.com/in/johnmarloumarcial/)
 
+## Name: Karm Patel
+* Place: India
+* Job: Student
+* GitHub: [karmpatel960](https://github.com/Karmpatel960)
+* LinkedIn: [Karm Patel](https://www.linkedin.com/in/karm-patel-262306224/)
+* Twitter: [Karm Patel](https://twitter.com/Karmstwt)
+* Portfolio: Same as Github
+
+
 ## Name: Zainab Ibraheem
 * Place: Nigeria
 * Job: Data Scientist

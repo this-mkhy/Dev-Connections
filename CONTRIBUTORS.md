@@ -562,6 +562,13 @@
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
 
+## Name: Chirag Tyagi
+* Place: India
+* Job: Student, Pursuing Degree in Computer Science
+* GitHub: [Chirag Tyagi](https://github.com/chiragtyagi2003)
+* LinkedIn: [Chirag Tyagi](https://www.linkedin.com/in/chirag-tyagi-21154b225/)
+* Portfolio: Same as GitHub for now
+
 ## Name: Kashika Malik
 
 - Place: USA

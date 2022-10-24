@@ -390,6 +390,12 @@
 - Twitter: [Saanvi BK](https://twitter.com/SaanviBK1)
 - Portfolio: Same as github for now
 
+## Name: Ruchita Sonawale
+- Place: India
+- Github: [@ruchi-115](https://github.com/ruchi-115)
+- Linkedin: [Ruchita Sonawale](https://www.linkedin.com/in/ruchita-sonawale-475063196/)
+- Portfolio: [Ruchita Sonawale](https://ruchita.vercel.app/)
+
 ## Name: Thomas Vu
 * Place: USA
 * Job: Software Engineer

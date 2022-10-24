@@ -645,3 +645,12 @@
 * LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+## Name: Cristina
+		* Place: Romania
+		* Job: PhD student
+		* GitHub: [CristinaEU1](https://github.com/CristinaEU1)
+		* LinkedIn: [Cristina](https://www.linkedin.com/in/cristinaelenaungureanu/)
+		* Portfolio: [Portfolio Name](https://linktr.ee/Cristina.Elena.U)
+	  
+	  

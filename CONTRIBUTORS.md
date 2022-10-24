@@ -562,6 +562,12 @@
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
 
+## Name: Amey Dhuri
+* Place: India
+* Job: Student, Pursing Degree in Computer Engineering
+* GitHub: [SayuriYuto](https://github.com/SayuriYuto)
+* LinkedIn: [Amey Dhuri](https://www.linkedin.com/in/dhuriamey02)
+
 ## Name: Chirag Aggarwal
 * Place: India
 * Job: Student, Pursuing Bachelor of Technology in Computer Science Engineering

@@ -645,3 +645,10 @@
 * LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+## Name: Adi Vishnu Avula
+* Place: India
+* Job: Student
+* GitHub: [@adivishnu-a](https://github.com/adivishnu-a/adivishnu-a)
+* LinkedIn: [Adi Vishnu Avula](https://www.linkedin.com/in/adi-vishnu-avula/)
+* Twitter: [@adivishnu_avula](https://twitter.com/adivishnu_avula)

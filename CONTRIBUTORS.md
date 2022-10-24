@@ -419,3 +419,9 @@
 * GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
+
+## Name: Kashika Malik
+
+- Place: USA
+- Job: Student
+- GitHub: [s-malikk](https://github.com/s-malikk)

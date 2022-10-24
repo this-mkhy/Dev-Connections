@@ -395,6 +395,12 @@
 - Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 - LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
+## Name: Khushpreet Singh
+- Place: India
+- Job: student
+- GitHub: [khushpreet](https://github.com/khushpreet-007)
+- LinkedIn: [Khushpreet](https://www.linkedin.com/in/khushpreet/)
+
 ## Name: Saanvi BK
 - Place: India
 - Job: Front End Developer

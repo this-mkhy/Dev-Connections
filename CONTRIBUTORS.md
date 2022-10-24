@@ -47,6 +47,7 @@
 - Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
 
 ## Name: Oreoluwa Alaba
+
 - Place: Nigeria
 - Job: Student
 - GitHub: [SanDiego2049](https://github.com/SanDiego2049)
@@ -78,6 +79,7 @@
 - LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
 
 ## Name: Sharma Parth
+
 - Place: India
 - GitHub: [@Parth Sharma](http://github.com/hack-parthsharma)
 - Portfolio: [Parth Sharma](https://hack-parthsharma.github.io)
@@ -85,12 +87,14 @@
 - LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharmajii)
 
 ## Name: Niki Jiandani
+
 - Place: Toronto, Canada
 - GitHub: [@nikijiandani](http://github.com/nikijiandani)
 - Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
 - LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
 
 ## Name: Lens Dorsainvil
+
 - Place: Massachussetts, USA
 - GitHub: [@Lensco825](http://github.com/Lensco825)
 - Codepen: [Lensco825](codepen.io/lensco825)
@@ -160,7 +164,7 @@
 - Github: [Jatin Kansal](https://github.com/jatinkansal2005)
 - LinkedIn: [Jatin Kansal](https://www.linkedin.com/in/jatin-kansal-140853192/)
 - Twitter: [Jatin Kansal](https://twitter.com/jatinkansal81)
- 
+
 ## Name: MohZaid Kapadia
 
 - Place: India
@@ -286,6 +290,7 @@
 - GitHub: [UjjwalAggarwal-1](http://github.com/UjjwalAggarwal-1)
 
 ## Name: Wanderson José
+
 - Place: Brasil
 - Job: Student
 - GitHub: [devwander](https://github.com/devwander)
@@ -310,6 +315,7 @@
 - Portfolio: [Sameer.dev](https://portfolio-sameer.herokuapp.com/project)
 
 ## Name: Mansi Tundele
+
 - Place: India
 - GitHub: [@Mansi-2000](https://github.com/Mansi-2000)
 - LinkedIn: [Mansi Tundele](https://www.linkedin.com/in/mansi-tundele-49140a204/)
@@ -325,39 +331,44 @@
 - Portfolio: [shubhamgour](https://about.me/sgour/) 
 
 ## Name: Rohit Roy
+
 - Place: India
 - Job: CSE'24 | Frontend Developer Intern
 - GitHub: [@rohitroy-github](https://github.com/rohitroy-github)
 - Twitter: [@rohitroy_R](https://twitter.com/rohitroy_R)
 - LinkedIn: [Rohit Roy](https://www.linkedin.com/in/roy-rohit/)
 - Portfolio: [Rohit Roy](https://linktr.ee/rohitroy_r)
-  
+
 ## Name: Niki Jiandani
-* Place: Toronto, Canada 
-* GitHub: [@nikijiandani](http://github.com/nikijiandani)
-* Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
-* LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
- 
+
+- Place: Toronto, Canada
+- GitHub: [@nikijiandani](http://github.com/nikijiandani)
+- Portfolio: [Niki Jiandani](https://www.nikitajiandani.com)
+- LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
+
 ## Name: Akhilesh Bhaskar
-* Place: India
-* Job: Student
-* GitHub: [iwantdollar](https://github.com/iwantdollar/)
-* LinkedIn: [Akhilesh](https://www.linkedin.com/in/akhilesh-bhaskar-b67389232/)
+
+- Place: India
+- Job: Student
+- GitHub: [iwantdollar](https://github.com/iwantdollar/)
+- LinkedIn: [Akhilesh](https://www.linkedin.com/in/akhilesh-bhaskar-b67389232/)
 
 ## Name: Wanderson José
-* Place: Brasil
-* Job: Student
-* GitHub: [devwander](https://github.com/devwander)
-* LinkedIn: [Wanderson José](https://www.linkedin.com/in/wanderson-jos%C3%A9/)
-* Portfolio: [devwander](https://devwander.github.io/)
+
+- Place: Brasil
+- Job: Student
+- GitHub: [devwander](https://github.com/devwander)
+- LinkedIn: [Wanderson José](https://www.linkedin.com/in/wanderson-jos%C3%A9/)
+- Portfolio: [devwander](https://devwander.github.io/)
 
 ## Name: Your Name
+
 - Place: India
 - Job: Student
 - GitHub: [tejas6859](https://github.com/tejas6859)
 - LinkedIn: [Tejas Gautam](https://www.linkedin.com/in/tejas-gautam-046786240/)
 - Twitter: [Tejas020903](https://twitter.com/Tejas020903)
-- Portfolio: same as github for now 
+- Portfolio: same as github for now
 
 ## Name: Kapil
 
@@ -369,18 +380,20 @@
 - Portfolio: [Kapil Kumar](https://kapilkumar7.github.io/Portfolio/)
 
 ## Name : Vishrut Agarwalla
+
 - Place: India
 - GitHub: [@Vishrut19](https://github.com/Vishrut19)
 - Twitter: [@Vishrut19](https://twitter.com/vishrut19)
 - LinkedIn : [@Vishrut19] (https://www.linkedin.com/in/vishrut-agarwalla)
 
 ## Name: Ibimina Hart
-* Place: Nigeria
-* Job: Frontend Developer
-* GitHub: [@ibimina](http://github.com/ibimina)
-* Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
-* Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
-* LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+- Place: Nigeria
+- Job: Frontend Developer
+- GitHub: [@ibimina](http://github.com/ibimina)
+- Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
+- Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
+- LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
 ## Name: Saanvi BK
 - Place: India
@@ -460,6 +473,21 @@
 
 ## Name: KALISA NGABO KEVIN
 
+- Place: Rwanda
+- Job: Web && Mobile developer
+- GitHub: [kalisaNkevin](https://github.com/kalisaNkevin)
+- LinkedIn: [kalisa-ngabo-kevin](linkedin.com/in/kalisa-ngabo-kevin-6717781b7)
+- Twitter: [Kalisakevin\_](https://twitter.com/kalisakevin_)
+- Portfolio: [KNK](https://kalisangabokevin.vercel.app/)
+
+## Name: Bilwa Gaonker
+
+- Place: India (Goa)
+- Job: Associate Software Engineer @Schlumberger
+- GitHub: [bilwagaonker](https://github.com/bilwagaonker)
+- Twitter:[@bilwa03](https://twitter.com/bilwa03)
+- LinkedIn: [Bilwa Gaonker](https://www.linkedin.com/in/bilwa-gaonker/)
+
 * Place: Rwanda
 * Job: Web && Mobile developer
 * GitHub: [kalisaNkevin](https://github.com/kalisaNkevin)
@@ -506,6 +534,21 @@
 - LinkedIn: [João Victor Vieira](https://www.linkedin.com/in/jvictorvieirasantos/)
 
 ## Name: Faizan Potrick
+
+- Place: India
+- Job: Student, Pursuing Degree in Computer Science
+- GitHub: [Faizan Potrick](https://github.com/FaizanPotrick)
+- LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
+- Portfolio: Same as GitHub for now
+
+ ## Name: Md Faizan
+
+- Place: India
+- Job: Student, Doing Btech in Information Technology(IT)'25
+- GitHub: [@thesuaveguy](https://github.com/thesuaveguy)
+- LinkedIn: [Md Faizan](https://www.linkedin.com/in/faizan-91b4aa223/)
+- Twitter: [@thesuaveguy_](https://twitter.com/thesuaveguy_)
+- Portfolio: Same as Github for now(https://github.com/thesuaveguy)
 
 * Place: India
 * Job: Student, Pursuing Degree in Computer Science

@@ -562,6 +562,12 @@
 * LinkedIn: [Faizan Potrick](www.linkedin.com/in/faizan-potrick)
 * Portfolio: Same as GitHub for now
 
+## Name: Kashika Malik
+
+- Place: USA
+- Job: Student
+- GitHub: [s-malikk](https://github.com/s-malikk)
+
 ## Name: Rosita D'mello
 * Place: India
 * Job: Computer Engineering Student

@@ -373,6 +373,13 @@
 * Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 * LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
 
+## Name: Rishi Agarwal
+* Place: India
+* Job: Student
+* Github: [@LegendaryGene](https://github.com/LegendaryGene)
+* Twitter: [@_rishi_agarwal_](https://twitter.com/_rishi_agarwal_)
+* LinkedIn: [@-rishi-agarwal-](https://www.linkedin.com/-rishi-agarwal-)
+
 ## Name: Ayeola Kehinde
 
 - Place: Nigeria

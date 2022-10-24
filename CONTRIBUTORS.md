@@ -647,10 +647,10 @@
 
 ## Name: Rachel Schipull
 
--Place: Durham, NC, USA
--Job: Full Stack Developer
--GitHub: [rachelschipull](https://github.com/rachelschipull)
--LinkedIn: [Rachel Schipull](https://www.linkedin.com/in/rachelschipull/)
--Twitter: [SchipThatCode](https://twitter.com/SchipThatCode)
--Portfolio: [rachelschipull.com](https://rachelschipull.com/)
+- Place: Durham, NC, USA
+- Job: Full Stack Developer
+- GitHub: [rachelschipull](https://github.com/rachelschipull)
+- LinkedIn: [Rachel Schipull](https://www.linkedin.com/in/rachelschipull/)
+- Twitter: [SchipThatCode](https://twitter.com/SchipThatCode)
+- Portfolio: [rachelschipull.com](https://rachelschipull.com/)
 

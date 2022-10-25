@@ -1,3 +1,11 @@
+## Name: Mayuri Agrawal
+
+- Place: India
+- Job: Student
+- Github: [mayuri-agrawal](https://github.com/mayuri-agrawal)
+- LinkedIn: [Mayuri Agrawal](https://www.linkedin.com/in/mayuri-agrawal-b97234214)
+- Twitter: [Mayuri Agrawal](https://twitter.com/home)
+- Portfolio: [mayuri-agrawal](https://mayuri-agrawal.github.io/CV/)
 
 ## Name: Mohamed Khaled Yousef
 

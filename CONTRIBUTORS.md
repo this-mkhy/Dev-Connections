@@ -4,14 +4,16 @@
 - Place: Egypt
 - Job: Front End Developer
 - GitHub: [this_mkhy](https://github.com/this-mkhy)
-- LinkedIn: [Mohamed Khaled Yousef](http://linkedin.com/in/mohamed-khaled-yousef-421081a5)
+- LinkedIn:
+  [Mohamed Khaled Yousef](http://linkedin.com/in/mohamed-khaled-yousef-421081a5)
 - Twitter: [this_mkhy](https://twitter.com/this_mkhy)
 - Portfolio: [mkhy.dev](https://mkhy.pages.dev/)
 
 ## Name: Jerod Santo
 
 - Place: Omaha, NE, USA
-- Job: [Developer](https://objectlateral.com), [Podcaster](https://changelog.com)
+- Job: [Developer](https://objectlateral.com),
+  [Podcaster](https://changelog.com)
 - GitHub: [jerodsanto](https://github.com/jerodsanto)
 - LinkedIn: [Jerod Santo](https://www.linkedin.com/in/jerodsanto/)
 - Twitter: [jerodsanto](https://twitter.com/jerodsanto)
@@ -42,9 +44,11 @@
 - Blog: [Ross Henderson's Blog](https://rosshendersonsblog.uk/)
 - DEV: [@ScottishRoss](https://dev.to/scottishross)
 - GitHub: [ScottishRoss](https://github.com/ScottishRoss/)
-- LinkedIn: [Ross Henderson](https://www.linkedin.com/in/ross-henderson-49a67641/)
+- LinkedIn:
+  [Ross Henderson](https://www.linkedin.com/in/ross-henderson-49a67641/)
 - Twitter: [@Rhenderson91](https://twitter.com/RHenderson91)
-- Portfolio: [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
+- Portfolio:
+  [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
 
 ## Name: Oreoluwa Alaba
 
@@ -67,7 +71,8 @@
 
 - Place: Italy
 - GitHub: [@cartinez](http://github.com/cartinez)
-- LinkedIn: [Francesco Cartier](https://www.linkedin.com/in/francesco-cartier-47a9479a/)
+- LinkedIn:
+  [Francesco Cartier](https://www.linkedin.com/in/francesco-cartier-47a9479a/)
 - DEV: [@cartinez](https://dev.to/cartinez)
 
 ## Name: Sharma Parth
@@ -118,6 +123,8 @@
 
 - Place: Madagascar
 - GitHub: [@MaxR522](https://github.com/MaxR522)
+- LinkedIn:
+  [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
 - LinkedIn: [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
 - Twitter: [@RanjaMario](https://twitter.com/RanjaMario)
 
@@ -125,6 +132,8 @@
 
 - Place: Cambodia
 - GitHub: [vatana7](https://github.com/vatana7)
+- LinkedIn:
+  [vatanasambath](https://www.linkedin.com/in/vatana-sambath-2366601aa/)
 - LinkedIn: [vatanasambath](https://www.linkedin.com/in/vatana-sambath-2366601aa/)
 - DEV: [vatana7](https://dev.to/vatana7)
 
@@ -149,6 +158,8 @@
 - Place: Rwanda
 - GitHub: [@munyanezaarmel](http://github.com/munyanezaarmel)
 - Portfolio: [Armel Munyaneza](munyanezaarmel.netlify.app)
+- LinkedIn:
+  [Armel Munyaneza](https://www.linkedin.com/in/munyaneza-armel-4b30a8201/)
 - LinkedIn: [Armel Munyaneza](https://www.linkedin.com/in/munyaneza-armel-4b30a8201/)
 
 ## Name: Kunal Pitale
@@ -199,6 +210,11 @@
 - Twitter: [@KPatelD1](https://twitter.com/KPatelD1)
 
 ## Name: Rohan Gope
+- Place: India
+- GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
+- Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
+- Twitter: [RohanGope6](https://twitter.com/RohanGope6)
+- LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
 ## Name: Emaad Ahmed
 * Place: India
@@ -242,12 +258,19 @@
 
 - Place: India
 - GitHub: [@nikhilvashisht](http://github.com/nikhilvashisht)
+- LinkedIn:
+  [Nikhil Vashisht](https://www.linkedin.com/in/nikhil-vashisht-9620881b9/)
 - LinkedIn: [Nikhil Vashisht](https://www.linkedin.com/in/nikhil-vashisht-9620881b9/)
 
 ## Name: Bikramjit Saha
 
 - Place: India
 - Github: [Bikramjit21](https://github.com/Bikramjit21)
+- LinkedIn:
+  [Bikramjit Saha](https://www.linkedin.com/in/bikramjit-saha-44b3251a0/)
+- Twitter: [Bikramjit Saha](https://twitter.com/bikramjitindia)
+- Youtube:
+  [Bikramjit Saha](https://www.youtube.com/channel/UCooyvvpFagid_7UHIA-GiRw)
 - LinkedIn: [Bikramjit Saha](https://www.linkedin.com/in/bikramjit-saha-44b3251a0/)
 - Twitter: [Bikramjit Saha](https://twitter.com/bikramjitindia)
 - Youtube: [Bikramjit Saha](https://www.youtube.com/channel/UCooyvvpFagid_7UHIA-GiRw)
@@ -271,12 +294,16 @@
 
 - Place: India
 - GitHub: [@Tatwansh](https://github.com/Tatwansh)
+- LinkedIn:
+  [TATWANSH JAISWAL](https://www.linkedin.com/in/tatwansh-j-232757217/)
 - LinkedIn: [TATWANSH JAISWAL](https://www.linkedin.com/in/tatwansh-j-232757217/)
 
 ## Name: Atharva Nimbalkar
 
 - Place: India
 - GitHub: [@Atharva-Nimbalkar](https://github.com/Atharva-Nimbalkar)
+- LinkedIn:
+  [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
 - LinkedIn: [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
 
 ## Name: Gopi Vaibhav
@@ -538,6 +565,15 @@
 - Portfolio: [Ibimina Hart](https://ibimina.github.io/ibimina-portfolio/)
 - Twitter: [ibiminaaH](https://twitter.com/ibiminaaH)
 - LinkedIn: [Ibimina Hart](https://www.linkedin.com/in/ibimina-hart/)
+
+- ## Name: Ndimofor Aretas
+
+- Place: Germany
+- Job: Full-stack React Developer | STEM Educator
+- GitHub: [@ndimoforaretas](https://github.com/ndimoforaretas)
+- Twitter: [@aretasndi](https://twitter.com/aretasndi)
+- LinkedIn:
+  [Ndimofor Aretas](https://www.linkedin.com/in/ndimofor-ndimofor-aretas-360917119/)
 
 ## Name: João Victor Vieira
 

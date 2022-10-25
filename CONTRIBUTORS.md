@@ -741,3 +741,11 @@
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
 
+## Name: Shyaka Tresor
+- Place: Rwanda
+- Job: Software Engineer
+- Github: [shyakadev](https://github.com/shyakadev/)
+- Stackoverflow: [shyakadev](https://stackoverflow.com/users/17815679/shyakadev)
+- LinkedIn: [shyaka tresor](https://www.linkedin.com/in/shyaka-tresor-12b843a3/)
+- codepen: [shyakalt](https://codepen.io/shyakalt)
+

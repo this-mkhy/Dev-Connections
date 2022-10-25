@@ -625,6 +625,14 @@
 * LinkedIn: [Chirag Tyagi](https://www.linkedin.com/in/chirag-tyagi-21154b225/)
 * Portfolio: Same as GitHub for now
 
+## Name: Shubh Sardana
+- Place: India
+- Job: Student
+- Github: [@shubhsardana29](https://github.com/shubhsardana29)
+- Twitter: [@NotSoShubhhh](https://twitter.com/NotSoShubhhh)
+- LinkedIn: [shubh-sardana](https://www.linkedin.com/in/shubh-sardana-76a750215/)
+- Portfolio: [shubhsardana](https://portfolio-shubhsardana.netlify.app)
+
 ## Name: Kashika Malik
 
 - Place: USA

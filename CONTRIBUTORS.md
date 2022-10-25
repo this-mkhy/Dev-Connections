@@ -9,6 +9,13 @@
 - Twitter: [this_mkhy](https://twitter.com/this_mkhy)
 - Portfolio: [mkhy.dev](https://mkhy.pages.dev/)
 
+## Name: DTS
+
+- Place: India
+- Job: Student
+- Github: [Bruhbytes](https://github.com/Bruhbytes)
+
+
 ## Name: Jerod Santo
 
 - Place: Omaha, NE, USA

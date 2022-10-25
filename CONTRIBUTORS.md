@@ -1,11 +1,3 @@
-## Name: Austin Labador
-
-- Place: United States
-- Job: Front End Developer
-- GitHub: [alabador](https://github.com/alabador)
-- LinkedIn: [Austin Labador](https://www.linkedin.com/in/austinlabador/)
-- Twitter: [alabador_v2](https://twitter.com/alabador_v2)
-- Portfolio: [Github Portfolio for now](https://github.com/alabador)
 
 ## Name: Mohamed Khaled Yousef
 
@@ -181,6 +173,24 @@
 - LinkedIn:
   [Armel Munyaneza](https://www.linkedin.com/in/munyaneza-armel-4b30a8201/)
 - LinkedIn: [Armel Munyaneza](https://www.linkedin.com/in/munyaneza-armel-4b30a8201/)
+
+## Name: Syed Jafer K
+
+- Place: India
+- Job: Full Stack Developer
+- GitHub: [syedjafer](https://github.com/syedjafer)
+- LinkedIn: [Syed Jafer K](https://www.linkedin.com/in/syedjaferk/)
+- Twitter: [Syed Jafer K](https://twitter.com/syedjafer_k)
+- Portfolio: [makereading.com](https://makereading.com)
+
+## Name: Austin Labador
+
+- Place: United States
+- Job: Front End Developer
+- GitHub: [alabador](https://github.com/alabador)
+- LinkedIn: [Austin Labador](https://www.linkedin.com/in/austinlabador/)
+- Twitter: [alabador_v2](https://twitter.com/alabador_v2)
+- Portfolio: [Github Portfolio for now](https://github.com/alabador)
 
 ## Name: Kunal Pitale
 

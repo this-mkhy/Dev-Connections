@@ -633,6 +633,13 @@
 * LinkedIn: [Chirag Tyagi](https://www.linkedin.com/in/chirag-tyagi-21154b225/)
 * Portfolio: Same as GitHub for now
 
+## Name: Satyapriyo Biswas
+* Place: India
+* Job: Student, Pursuing b.tech in Information technology
+* GitHub: [Satyapriyo](https://github.com/Satyapriyo)
+* LinkedIn: [Satyapriyo Biswas](https://www.linkedin.com/in/satyapriyo-biswas-b88073225/)
+* Portfolio: [Satyapriyo](https://portfolio-satyapriyo.vercel.app/)
+
 ## Name: Shubh Sardana
 - Place: India
 - Job: Student

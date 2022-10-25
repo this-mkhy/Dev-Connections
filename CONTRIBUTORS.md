@@ -27,6 +27,14 @@
 - DEV: [jerodsanto](https://dev.to/jerodsanto)
 - Portfolio: [jerodsanto.net](https://jerodsanto.net)
 
+## Name : Viennivre
+
+- Place: Nigeria
+- Job: Cybersecurity Engineer
+- Github: [Viennivre](https://github.com/viennivre)
+- Twitter: [viennivre](https://twitter.com/viennivre)
+
+
 ## Name: TheRedSpy15
 
 - Place: United States

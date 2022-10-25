@@ -704,12 +704,12 @@
 - LinkedIn: [John Marcial](https://www.linkedin.com/in/johnmarloumarcial/)
 
 ## Name: Zainab Ibraheem
-* Place: Nigeria
-* Job: Data Scientist
-* GitHub: [Zainab Ibraheem](https://github.com/mojiibraheem)
-* LinkedIn: [Zainab Ibraheem](https://www.linkedin.com/in/zainab-ibraheem-494206185/)
-* Twitter: [@ibraheemzainab4](https://twitter.com/IbraheemZainab4)
-* Portfolio: same as GitHub
+- Place: Nigeria
+- Job: Data Scientist
+- GitHub: [Zainab Ibraheem](https://github.com/mojiibraheem)
+- LinkedIn: [Zainab Ibraheem](https://www.linkedin.com/in/zainab-ibraheem-494206185/)
+- Twitter: [@ibraheemzainab4](https://twitter.com/IbraheemZainab4)
+- Portfolio: same as GitHub
 
 ## Name: Ayush Shrotriya
       * Place: India
@@ -718,10 +718,16 @@
       * Twitter: [Ayushsstwt](https://twitter.com/Ayushsstwt)
 
 ## Name: Ankan Garai
-* Place: India
-* Job: Student
-* GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
-* LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
-* Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
-* Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
- 
+- Place: India
+- Job: Student
+- GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
+- LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
+- Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
+- Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+## Name: Adwaith Krishna
+- Place: India
+- Job: Student persuing CSE
+- GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
+- LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
+

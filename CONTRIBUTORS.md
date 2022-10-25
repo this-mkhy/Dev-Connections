@@ -632,6 +632,14 @@
 * LinkedIn: [Satyapriyo Biswas](https://www.linkedin.com/in/satyapriyo-biswas-b88073225/)
 * Portfolio: [Satyapriyo](https://portfolio-satyapriyo.vercel.app/)
 
+## Name: Shubh Sardana
+- Place: India
+- Job: Student
+- Github: [@shubhsardana29](https://github.com/shubhsardana29)
+- Twitter: [@NotSoShubhhh](https://twitter.com/NotSoShubhhh)
+- LinkedIn: [shubh-sardana](https://www.linkedin.com/in/shubh-sardana-76a750215/)
+- Portfolio: [shubhsardana](https://portfolio-shubhsardana.netlify.app)
+
 ## Name: Kashika Malik
 
 - Place: USA

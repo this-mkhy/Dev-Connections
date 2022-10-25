@@ -741,3 +741,8 @@
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
 
+## Name: Anmol Bansal
+- Place: India
+- Job: Student pursuing B.Tech
+- Github: [theblazingone](https://github.com/theblazingone)
+- LinkedIn: [anmolbansal2142](https://www.linkedin.com/in/anmolbansal2142/)

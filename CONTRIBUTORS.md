@@ -741,3 +741,7 @@
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
 
+## Name: Aditi
+- Place: India
+- Job: CSE Student
+-  GitHub: [Foxtrot31](https://github.com/Foxtrot31)

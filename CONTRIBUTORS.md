@@ -200,6 +200,14 @@
 
 ## Name: Rohan Gope
 
+## Name: Emaad Ahmed
+* Place: India
+* Job: Student
+* GitHub: [GigabyteZX1](http://github.com/GigabyteZX1)
+* LinkedIn: [Emaad Ahmed](https://www.linkedin.com/in/emaad-ahmed-511032222)
+* Twitter: [EmaadAhmed93112](https://twitter.com/EmaadAhmed93112)
+* Portfolio: Same as Github
+
 - Place: India
 - GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
 - Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
@@ -645,3 +653,4 @@
 * LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+

@@ -752,6 +752,14 @@
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+ ## Name: Ivan Cvetkovic
+ * Place: Serbia
+ * Job: Your Job Title
+ * GitHub: [Burekslayer](https://github.com/Burekslayer)
+ * LinkedIn: [Ivan Cvetkovic](https://www.linkedin.com/in/burekslayer/)
+ * Twitter: [@Ivca944](https://twitter.com/Ivca944)
+ * Portfolio: [Ivan Cvetkovic](https://resplendent-meringue-e33275.netlify.app/)
+
 ## Name: Jayson Clark
 * Place: United States of America
 * Job: Student

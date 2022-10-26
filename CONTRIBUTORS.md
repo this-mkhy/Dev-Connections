@@ -869,3 +869,8 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+## Name: Loreto Gutierrez
+ * Place: Philippines
+ * Job: Freelance
+ * GitHub / Portfolio: [loretogutierrezjr](https://github.com/loretogutierrezjr)
+

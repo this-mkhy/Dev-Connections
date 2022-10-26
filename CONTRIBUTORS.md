@@ -869,3 +869,8 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+ ## Name: Patryk Buda
+ * Place: Cardiff
+ * Job: Your Software Engineer
+ * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
+ * LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)

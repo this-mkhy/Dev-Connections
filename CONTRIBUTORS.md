@@ -744,9 +744,16 @@
 - Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 - Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+## Name: Cristina
+		* Place: Romania
+		* Job: PhD student
+		* GitHub: [CristinaEU1](https://github.com/CristinaEU1)
+		* LinkedIn: [Cristina](https://www.linkedin.com/in/cristinaelenaungureanu/)
+		* Portfolio: [Portfolio Name](https://linktr.ee/Cristina.Elena.U)
+	  
 ## Name: Adwaith Krishna
 - Place: India
 - Job: Student persuing CSE
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
-
+ 

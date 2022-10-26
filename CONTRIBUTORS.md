@@ -760,6 +760,13 @@
  * Twitter: [@Ivca944](https://twitter.com/Ivca944)
  * Portfolio: [Ivan Cvetkovic](https://resplendent-meringue-e33275.netlify.app/)
 
+## Name: Jayson Clark
+* Place: United States of America
+* Job: Student
+* Github: [Jaysonc0421](https://github.com/Jaysonc0421)
+* Twitter: [_jayson_clark_](https://twitter.com/_jayson_clark_)
+* Portfolio: [jaysonc.dev, Brand new, W.I.P.](https://jaysonc.dev)
+
 * Job: Developer
 * GitHub: [@nikhilbuts](https://github.com/nikhilbuts)
 * LinkedIn: [Nikhil Butani](https://in.linkedin.com/in/nikhilbutani/)

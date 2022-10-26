@@ -752,6 +752,14 @@
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+## Name: Laura Ferraz 
+* Place: Brazil
+* Job: Full Stack Developer
+* GitHub: [lauraferraz5](https://github.com/lauraferraz5/Dev-Connections.git)
+* LinkedIn: [Laura Ferraz Cavalcanti](https://www.linkedin.com/in/lauraferrazcavalcanti/)
+* Twitter: [Laura Ferraz](https://twitter.com/f_lauraferraz)
+* Portfolio: [lauraferraz5](https://github.com/lauraferraz5/Dev-Connections.git)
+
  ## Name: Ivan Cvetkovic
  * Place: Serbia
  * Job: Your Job Title

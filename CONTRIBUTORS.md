@@ -869,3 +869,10 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+## Name: Lucas Pavanelli
+* Place: Brazil
+* Job: Applied Scientist
+* GitHub: [pavalucas](https://github.com/pavalucas)
+* LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
+* Twitter: [pavalucas](https://twitter.com/pavalucas)
+* Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)

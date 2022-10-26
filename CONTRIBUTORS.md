@@ -20,6 +20,12 @@
 - DEV: [jerodsanto](https://dev.to/jerodsanto)
 - Portfolio: [jerodsanto.net](https://jerodsanto.net)
 
+## Name: Vishnu
+
+- Place: India
+- GitHub: [V-I-S-H-N-U](https://github.com/V-I-S-H-N-U)
+- Twitter: [Vishnu](https://twitter.com/VishnuSPramod?t=e0IQP2eemsilwNaqUTm_9A&s=09)
+
 ## Name: TheRedSpy15
 
 - Place: United States

@@ -869,3 +869,9 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+## Name: James Hurtado
+- Place: Peru
+- Job: Front End Developer
+- Github: [@jrenzzo](https://github.com/jrenzzo)
+- Twitter: [@RenzoHurtado8](https://twitter.com/RenzoHurtado8)
+- LinkedIn: [James Hurtado](https://www.linkedin.com/in/jamesrenzo03/)

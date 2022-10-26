@@ -1,13 +1,5 @@
 
-## Name: Krishnadev P Melevila
 
-- Place: India
-- Job: Student
-- GitHub: [krishnadevpmelevila](https://github.com/krishnadevpmelevila)
-- LinkedIn: [krishnadevpmelevila](https://www.linkedin.com/in/krishnadevpmelevila)
-- Twitter: [@krishnadev_p_m](https://twitter.com/krishnadev_p_m)
-- Portfolio: [krishnadevpmelevila.com](https://krishnadevpmelevila.com)
-- Medium Blog: [krishnadevpmelevila.medium.com](https://krishnadevpmelevila.medium.com)
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -17,13 +9,6 @@
   [Mohamed Khaled Yousef](http://linkedin.com/in/mohamed-khaled-yousef-421081a5)
 - Twitter: [this_mkhy](https://twitter.com/this_mkhy)
 - Portfolio: [mkhy.dev](https://mkhy.pages.dev/)
-
-## Name: DTS
-
-- Place: India
-- Job: Student
-- Github: [Bruhbytes](https://github.com/Bruhbytes)
-
 
 ## Name: Jerod Santo
 
@@ -678,6 +663,22 @@
 - Job: Student
 - GitHub: [s-malikk](https://github.com/s-malikk)
 
+## Name: DTS
+
+- Place: India
+- Job: Student
+- Github: [Bruhbytes](https://github.com/Bruhbytes)
+
+## Name: Krishnadev P Melevila
+
+- Place: India
+- Job: Student
+- GitHub: [krishnadevpmelevila](https://github.com/krishnadevpmelevila)
+- LinkedIn: [krishnadevpmelevila](https://www.linkedin.com/in/krishnadevpmelevila)
+- Twitter: [@krishnadev_p_m](https://twitter.com/krishnadev_p_m)
+- Portfolio: [krishnadevpmelevila.com](https://krishnadevpmelevila.com)
+- Medium Blog: [krishnadevpmelevila.medium.com](https://krishnadevpmelevila.medium.com)
+
 ## Name: Rosita D'mello
 * Place: India
 * Job: Computer Engineering Student
@@ -756,6 +757,15 @@
 * LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+## Name: Rachel Schipull
+
+- Place: Durham, NC, USA
+- Job: Full Stack Developer
+- GitHub: [rachelschipull](https://github.com/rachelschipull)
+- LinkedIn: [Rachel Schipull](https://www.linkedin.com/in/rachelschipull/)
+- Twitter: [SchipThatCode](https://twitter.com/SchipThatCode)
+- Portfolio: [rachelschipull.com](https://rachelschipull.com/)
 
 ## Name: Martin Wangata
 - Place: Nairobi, Kenya.

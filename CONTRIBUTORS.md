@@ -869,3 +869,10 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+## Name: Pulkit Handa
+- Place: India
+- Job: High School Student
+- Github: [pulkithanda](https://github.com/pulkithanda)
+- LinkedIn: [Pulkit Handa](https://www.linkedin.com/in/pulkit-handa-2286721aa/)
+- Twitter: [@PTHanda2005](https://twitter.com/PTHanda2005)
+- Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)

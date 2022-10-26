@@ -746,6 +746,19 @@
 - 
 ## Name: Nikhil Butani
 * Place: India
+* Job: Student
+* GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
+* LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
+* Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
+* Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+## Name: Jayson Clark
+* Place: United States of America
+* Job: Student
+* Github: [Jaysonc0421](https://github.com/Jaysonc0421)
+* Twitter: [_jayson_clark_](https://twitter.com/_jayson_clark_)
+* Portfolio: [jaysonc.dev, Brand new, W.I.P.](https://jaysonc.dev)
+
 * Job: Developer
 * GitHub: [@nikhilbuts](https://github.com/nikhilbuts)
 * LinkedIn: [Nikhil Butani](https://in.linkedin.com/in/nikhilbutani/)

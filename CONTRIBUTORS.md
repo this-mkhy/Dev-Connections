@@ -869,3 +869,9 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+## Name: Arsalan
+  * Place: Pakistan
+  * Job: Senior Frontend Developer
+  * GitHub: [aayanqazi](https://github.com/aayanqazi)
+  * LinkedIn: [Arsalan Sabir](https://www.linkedin.com/in/arsalan-sabir/)
+  * Twitter: [Arsalan Sabir](https://twitter.com/aayanqazi)

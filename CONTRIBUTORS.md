@@ -20,7 +20,7 @@
 - DEV: [jerodsanto](https://dev.to/jerodsanto)
 - Portfolio: [jerodsanto.net](https://jerodsanto.net)
 
-## Name: Vishnu
+## Name: Vishnu S
 
 - Place: India
 - GitHub: [V-I-S-H-N-U](https://github.com/V-I-S-H-N-U)

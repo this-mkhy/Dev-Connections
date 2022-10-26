@@ -752,6 +752,14 @@
 * Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 * Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+## Name: Martin Wangata
+- Place: Nairobi, Kenya.
+- Job: [Software Developer]
+- GitHub: [Wangata](https://github.com/Wangata)
+- LinkedIn: [Martin Wangata](https://www.linkedin.com/in/martinwangata/)
+- Twitter: [Wangata_](https://twitter.com/Wangata_)
+- Website: [Wangata](https://wangata.netlify.app/)
+
 ## Name: Laura Ferraz 
 * Place: Brazil
 * Job: Full Stack Developer

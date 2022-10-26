@@ -869,3 +869,10 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+
+## Name: Pedro Pablo Pastene
+  * Place: Chile
+  * Job: Backend Developer and DevOps student
+  * GitHub: [ppastene](https://github.com/ppastene)
+  * LinkedIn: [Pedro Pablo Pastene](https://www.linkedin.com/in/ppablopastene/)
+  

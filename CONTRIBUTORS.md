@@ -66,6 +66,11 @@
 - Portfolio:
   [APEX Workspace(WIP)](https://apex.oracle.com/pls/apex/f?p=WORKSHOP)
 
+      ## Name: Sagarika Saha
+      * Place: India
+      * GitHub: [Daffodilgithub](https://github.com/Daffodilgithub)
+      * LinkedIn: [Sagarika Saha](https://www.linkedin.com/in/sagarika-saha-05ba9422a/)
+
 ## Name: Oreoluwa Alaba
 
 - Place: Nigeria

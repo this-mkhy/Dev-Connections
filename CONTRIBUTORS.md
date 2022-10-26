@@ -840,6 +840,15 @@
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
 
+## Name: Chandrashekhar Kachawa
+
+- Place: India
+- Job: Student
+- GitHub: [@mcctrix](https://github.com/mcctrix)
+- Portfolio: [Chandrashekhar Kachawa](https://ctrix.vercel.app)
+- Twitter: [@Ctrixdev](https://twitter.com/Ctrixdev)
+- LinkedIn: [Chandrashekhar Kachawa](https://www.linkedin.com/in/chandrashekhar-kachawa-823017246/)
+
 ## Name: Aditi
 - Place: India
 - Job: CSE Student

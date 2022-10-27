@@ -869,3 +869,11 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+
+## Name: Anushtha Bageria
+
+- Place: India
+- Job: Student
+- GitHub: [anu-phoenix](https://github.com/anu-phoenix)
+- Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
+- LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)

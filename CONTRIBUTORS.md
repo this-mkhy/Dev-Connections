@@ -33,7 +33,7 @@
 
 ## Name: Devanshu
 
-- Place: Ahmedabad,Gujarat,India
+- Place: Gujarat,India
 - GitHub: (https://github.com/Devanshudd)
 - LinkedIn: (https://www.linkedin.com/in/devanshu-dudhia-b299aa184/)
 

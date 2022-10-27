@@ -847,6 +847,12 @@
 - Job: Student persuing CSE
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
+- 
+## Name: Manmeet kaur
+- Place: India
+- Job: Student persuing CSE
+- GitHub: [@Manmeetkaur1525](https://github.com/Manmeetkaur1525)
+- LinkedIn: [Manmeetkaur](https://www.linkedin.com/in/manmeet-kaur-7620241b7/)
 
 ## Name: Anmol Bansal
 - Place: India

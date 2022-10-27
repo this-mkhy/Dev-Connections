@@ -14,6 +14,13 @@
 - GitHub: [Gr33nLight](https://github.com/Gr33nLight)
 - DEV: [jerodsanto](https://dev.to/gr33nlight)
 
+
+## Name: Yaashi
+- Place: Delhi,India
+- Job: Student
+- GitHub: [ym2108](https://github.com/ym2108)
+- LinkedIn: [yaashi-madan](https://www.linkedin.com/in/yaashi-madan/)
+
 ## Name: Jerod Santo
 
 - Place: Omaha, NE, USA

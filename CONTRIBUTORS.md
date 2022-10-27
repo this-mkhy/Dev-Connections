@@ -893,14 +893,17 @@
 - Job: Student persuing CSE
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
-- 
+-
+
 ## Name: Manmeet kaur
+
 - Place: India
 - Job: Student persuing CSE
 - GitHub: [@Manmeetkaur1525](https://github.com/Manmeetkaur1525)
 - LinkedIn: [Manmeetkaur](https://www.linkedin.com/in/manmeet-kaur-7620241b7/)
 
 ## Name: Anmol Bansal
+
 - Place: India
 - Job: Student pursuing B.Tech
 - Github: [theblazingone](https://github.com/theblazingone)
@@ -936,26 +939,30 @@
 - Job: Student
 - GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
 - LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
- 
+
 ## Name: Siddhi Agarkar
+
 - Place: Mumbai, India
 - Job: Sophomore at NIT DGP
 - GitHub: [siddhiagarkar](https://github.com/siddhiagarkar)
 - LinkedIn: [SIDDHI AGARKAR](https://www.linkedin.com/in/siddhi-agarkar-56b7a8231/)
 
 ## Name: Arsalan
-  * Place: Pakistan
-  * Job: Senior Frontend Developer
-  * GitHub: [aayanqazi](https://github.com/aayanqazi)
-  * LinkedIn: [Arsalan Sabir](https://www.linkedin.com/in/arsalan-sabir/)
-  * Twitter: [Arsalan Sabir](https://twitter.com/aayanqazi)
+
+- Place: Pakistan
+- Job: Senior Frontend Developer
+- GitHub: [aayanqazi](https://github.com/aayanqazi)
+- LinkedIn: [Arsalan Sabir](https://www.linkedin.com/in/arsalan-sabir/)
+- Twitter: [Arsalan Sabir](https://twitter.com/aayanqazi)
 
 ## Name: Loreto Gutierrez
- * Place: Philippines
- * Job: Freelance
- * GitHub / Portfolio: [loretogutierrezjr](https://github.com/loretogutierrezjr)
+
+- Place: Philippines
+- Job: Freelance
+- GitHub / Portfolio: [loretogutierrezjr](https://github.com/loretogutierrezjr)
 
 ## Name: Pulkit Handa
+
 - Place: India
 - Job: High School Student
 - Github: [pulkithanda](https://github.com/pulkithanda)
@@ -968,3 +975,12 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Lotfi Jebali
+
+- Place: Tunisia
+- Job: Computer science student / web developer
+- Github: [lotfijb](https://github.com/lotfijb)
+- LinkedIn: [Lotfi Jebali](https://www.linkedin.com/in/lotfijbeli/)
+- Twitter: [@lotfijbe](https://twitter.com/lotfijbe)
+- Portfolio: [Lotfi Jebali - Portfolio](https://lotfijbeli.netlify.app)

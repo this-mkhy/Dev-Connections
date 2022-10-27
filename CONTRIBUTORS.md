@@ -765,6 +765,14 @@
 - Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 - Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+## Name: Mayuri Agrawal
+
+- Place: India
+- Job: Student
+- Github: [mayuri-agrawal](https://github.com/mayuri-agrawal)
+- LinkedIn: [Mayuri Agrawal](https://www.linkedin.com/in/mayuri-agrawal-b97234214)
+- Twitter: [Mayuri Agrawal](https://twitter.com/home)
+- Portfolio: [mayuri-agrawal](https://mayuri-agrawal.github.io/CV/)
 
 ## Name: Anjali Singh
 
@@ -839,6 +847,18 @@
 - Job: Student persuing CSE
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
+- 
+## Name: Manmeet kaur
+- Place: India
+- Job: Student persuing CSE
+- GitHub: [@Manmeetkaur1525](https://github.com/Manmeetkaur1525)
+- LinkedIn: [Manmeetkaur](https://www.linkedin.com/in/manmeet-kaur-7620241b7/)
+
+## Name: Anmol Bansal
+- Place: India
+- Job: Student pursuing B.Tech
+- Github: [theblazingone](https://github.com/theblazingone)
+- LinkedIn: [anmolbansal2142](https://www.linkedin.com/in/anmolbansal2142/)
 
 ## Name: Chandrashekhar Kachawa
 
@@ -876,3 +896,9 @@
 - LinkedIn: [Pulkit Handa](https://www.linkedin.com/in/pulkit-handa-2286721aa/)
 - Twitter: [@PTHanda2005](https://twitter.com/PTHanda2005)
 - Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)
+
+## Name: Tiago Bodin
+
+- Place: France
+- Job: Python Developer
+- GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)

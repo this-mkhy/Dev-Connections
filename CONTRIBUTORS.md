@@ -968,3 +968,9 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Ishita Ojha
+- Place: India
+- Job: Student
+- GitHub: [ishitaojha](https://github.com/ishitaojha)
+- LinkedIn: [Ishita Ojhae](https://www.linkedin.com/in/ishita-ojha-2000/)

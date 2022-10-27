@@ -1,11 +1,3 @@
-## Name: Mayuri Agrawal
-
-- Place: India
-- Job: Student
-- Github: [mayuri-agrawal](https://github.com/mayuri-agrawal)
-- LinkedIn: [Mayuri Agrawal](https://www.linkedin.com/in/mayuri-agrawal-b97234214)
-- Twitter: [Mayuri Agrawal](https://twitter.com/home)
-- Portfolio: [mayuri-agrawal](https://mayuri-agrawal.github.io/CV/)
 
 ## Name: Mohamed Khaled Yousef
 
@@ -773,6 +765,14 @@
 - Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 - Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+## Name: Mayuri Agrawal
+
+- Place: India
+- Job: Student
+- Github: [mayuri-agrawal](https://github.com/mayuri-agrawal)
+- LinkedIn: [Mayuri Agrawal](https://www.linkedin.com/in/mayuri-agrawal-b97234214)
+- Twitter: [Mayuri Agrawal](https://twitter.com/home)
+- Portfolio: [mayuri-agrawal](https://mayuri-agrawal.github.io/CV/)
 
 ## Name: Anjali Singh
 
@@ -889,6 +889,13 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+## Name: Pulkit Handa
+- Place: India
+- Job: High School Student
+- Github: [pulkithanda](https://github.com/pulkithanda)
+- LinkedIn: [Pulkit Handa](https://www.linkedin.com/in/pulkit-handa-2286721aa/)
+- Twitter: [@PTHanda2005](https://twitter.com/PTHanda2005)
+- Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)
 
 ## Name: Tiago Bodin
 

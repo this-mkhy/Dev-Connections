@@ -28,7 +28,7 @@
 ## Name: Vishnu S
 
 - Place: India
-- GitHub: [V-I-S-H-N-U](https://github.com/V-I-S-H-N-U)
+- GitHub: [V-I-S-H-N-U](https://ghttps://github.com/aniaprochoithub.com/V-I-S-H-N-U)
 - Twitter: [Vishnu](https://twitter.com/VishnuSPramod?t=e0IQP2eemsilwNaqUTm_9A&s=09)
 
 ## Name: TheRedSpy15

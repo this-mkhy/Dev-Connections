@@ -968,3 +968,9 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Tapas Khanijo
+
+- Place: India
+- Job: student
+- GitHub: [Tapas Khanijo](https://github.com/tapaskhanijo)

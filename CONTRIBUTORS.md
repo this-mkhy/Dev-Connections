@@ -25,6 +25,12 @@
 - DEV: [jerodsanto](https://dev.to/jerodsanto)
 - Portfolio: [jerodsanto.net](https://jerodsanto.net)
 
+## Name: Vishnu S
+
+- Place: India
+- GitHub: [V-I-S-H-N-U](https://github.com/V-I-S-H-N-U)
+- Twitter: [Vishnu](https://twitter.com/VishnuSPramod?t=e0IQP2eemsilwNaqUTm_9A&s=09)
+
 ## Name: TheRedSpy15
 
 - Place: United States
@@ -143,6 +149,13 @@
   [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
 - LinkedIn: [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
 - Twitter: [@RanjaMario](https://twitter.com/RanjaMario)
+
+## Name: Swaraj
+
+- Place: India
+- GitHub: [@swarajzz](https://github.com/swarajzz)
+- LinkedIn: [Swaraj .](https://www.linkedin.com/in/swaraj-b4a8511b8//)
+- Twitter: [@swarajzzz](https://twitter.com/swarajzzz)
 
 ## Name: Sambath Vatana
 
@@ -791,6 +804,15 @@
 - Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 - Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+## Name: Mayuri Agrawal
+
+- Place: India
+- Job: Student
+- Github: [mayuri-agrawal](https://github.com/mayuri-agrawal)
+- LinkedIn: [Mayuri Agrawal](https://www.linkedin.com/in/mayuri-agrawal-b97234214)
+- Twitter: [Mayuri Agrawal](https://twitter.com/home)
+- Portfolio: [mayuri-agrawal](https://mayuri-agrawal.github.io/CV/)
+
 ## Name: Anjali Singh
 
 - Place: India
@@ -871,6 +893,18 @@
 - Job: Student persuing CSE
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
+- 
+## Name: Manmeet kaur
+- Place: India
+- Job: Student persuing CSE
+- GitHub: [@Manmeetkaur1525](https://github.com/Manmeetkaur1525)
+- LinkedIn: [Manmeetkaur](https://www.linkedin.com/in/manmeet-kaur-7620241b7/)
+
+## Name: Anmol Bansal
+- Place: India
+- Job: Student pursuing B.Tech
+- Github: [theblazingone](https://github.com/theblazingone)
+- LinkedIn: [anmolbansal2142](https://www.linkedin.com/in/anmolbansal2142/)
 
 ## Name: Chandrashekhar Kachawa
 
@@ -902,3 +936,35 @@
 - Job: Student
 - GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
 - LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
+ 
+## Name: Siddhi Agarkar
+- Place: Mumbai, India
+- Job: Sophomore at NIT DGP
+- GitHub: [siddhiagarkar](https://github.com/siddhiagarkar)
+- LinkedIn: [SIDDHI AGARKAR](https://www.linkedin.com/in/siddhi-agarkar-56b7a8231/)
+
+## Name: Arsalan
+  * Place: Pakistan
+  * Job: Senior Frontend Developer
+  * GitHub: [aayanqazi](https://github.com/aayanqazi)
+  * LinkedIn: [Arsalan Sabir](https://www.linkedin.com/in/arsalan-sabir/)
+  * Twitter: [Arsalan Sabir](https://twitter.com/aayanqazi)
+
+## Name: Loreto Gutierrez
+ * Place: Philippines
+ * Job: Freelance
+ * GitHub / Portfolio: [loretogutierrezjr](https://github.com/loretogutierrezjr)
+
+## Name: Pulkit Handa
+- Place: India
+- Job: High School Student
+- Github: [pulkithanda](https://github.com/pulkithanda)
+- LinkedIn: [Pulkit Handa](https://www.linkedin.com/in/pulkit-handa-2286721aa/)
+- Twitter: [@PTHanda2005](https://twitter.com/PTHanda2005)
+- Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)
+
+## Name: Tiago Bodin
+
+- Place: France
+- Job: Python Developer
+- GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)

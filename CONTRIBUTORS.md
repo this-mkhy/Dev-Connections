@@ -968,3 +968,11 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+
+## Name: Anna Prochownik
+* Place: Poland
+* Job: Finance Analyst
+* GitHub: [aniaprocho] (https://github.com/aniaprocho)
+* LinkedIn: [Anna Prochownik] (https://pl.linkedin.com/in/anna-prochownik-73674618a)
+* 

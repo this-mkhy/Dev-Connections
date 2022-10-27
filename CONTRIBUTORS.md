@@ -1,9 +1,9 @@
-## Name : Tanikesh Sharma
+## Name: Tanikesh Sharma
 
--Place: India
--GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
--LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
--
+- Place: India
+- GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
+- LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt

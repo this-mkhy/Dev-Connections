@@ -969,10 +969,9 @@
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
 
-## Name: Your Name
+## Name: Leonard Eguriase
 * Place: Nigeria
 * Job: Student
 * GitHub: [Baba-Yega](https://github.com/Baba-Yega)
 * LinkedIn: [Leonard (Ovigue) Eguriase](https://www.linkedin.com/in/leonard-eguriase-4b4064213/)
 * Twitter: [lovigueraye](https://twitter.com/lovigueraye)
-* Portfolio: [Portfolio Name](Portfolio Link)

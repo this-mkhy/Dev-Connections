@@ -141,6 +141,12 @@
 - GitHub: [@Anmol Ranjan](http://github.com/anmolranjan1)
 - Portfolio: [Anmol Ranjan](https://hack-parthsharma.github.io)
 
+## Name: Anand Soni
+
+- Place: India
+- GitHub: [@prototype47](http://github.com/prototype47)
+- LinkedIn: [Anand Soni](https://linkedin.com/in/anand-s)
+
 ## Name: Mario Randrianomearisoa
 
 - Place: Madagascar

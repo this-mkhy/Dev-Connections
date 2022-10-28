@@ -1038,3 +1038,11 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+## Name: Nishant Jain
+- Place: India
+- Job: Student
+- GitHub: [Nishantjain10](https://github.com/Nishantjain10)
+- Portfolio: [Nishant Jain](http://devnishant.co)
+- LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
+- Twitter: [devnishant10](https://twitter.com/devnishant10)

@@ -1,4 +1,3 @@
-
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -8,6 +7,19 @@
   [Mohamed Khaled Yousef](http://linkedin.com/in/mohamed-khaled-yousef-421081a5)
 - Twitter: [this_mkhy](https://twitter.com/this_mkhy)
 - Portfolio: [mkhy.dev](https://mkhy.pages.dev/)
+
+## Name: Bruno De Paula
+
+- Place: Padua, ITA
+- GitHub: [Gr33nLight](https://github.com/Gr33nLight)
+- DEV: [jerodsanto](https://dev.to/gr33nlight)
+
+
+## Name: Yaashi
+- Place: Delhi,India
+- Job: Student
+- GitHub: [ym2108](https://github.com/ym2108)
+- LinkedIn: [yaashi-madan](https://www.linkedin.com/in/yaashi-madan/)
 
 ## Name: Jerod Santo
 
@@ -19,6 +31,12 @@
 - Twitter: [jerodsanto](https://twitter.com/jerodsanto)
 - DEV: [jerodsanto](https://dev.to/jerodsanto)
 - Portfolio: [jerodsanto.net](https://jerodsanto.net)
+
+## Name: Vishnu S
+
+- Place: India
+- GitHub: [V-I-S-H-N-U](https://github.com/V-I-S-H-N-U)
+- Twitter: [Vishnu](https://twitter.com/VishnuSPramod?t=e0IQP2eemsilwNaqUTm_9A&s=09)
 
 ## Name: TheRedSpy15
 
@@ -104,18 +122,18 @@
 - LinkedIn: [Niki Jiandani](https://www.linkedin.com/in/nikitajiandani/)
 
 ## Name: Lens Dorsainvil
-* Place: Massachussetts, USA
-* GitHub: [@Lensco825](http://github.com/Lensco825)
-* Codepen: [Lensco825](https://codepen.io/lensco825)
-* Replit: [Lensco825](https://replit.com/@lensco825)
-* DEV: [Lens](https://dev.to/lensco825)
-  
 
 - Place: Massachussetts, USA
 - GitHub: [@Lensco825](http://github.com/Lensco825)
-- Codepen: [Lensco825](codepen.io/lensco825)
-- Replit: [Lensco825](replit.com/@lensco825)
+- Codepen: [Lensco825](https://codepen.io/lensco825)
+- Replit: [Lensco825](https://replit.com/@lensco825)
 - DEV: [Lens](https://dev.to/lensco825)
+
+* Place: Massachussetts, USA
+* GitHub: [@Lensco825](http://github.com/Lensco825)
+* Codepen: [Lensco825](codepen.io/lensco825)
+* Replit: [Lensco825](replit.com/@lensco825)
+* DEV: [Lens](https://dev.to/lensco825)
 
 ## Name: Guilherme Suzuki
 
@@ -139,6 +157,13 @@
 - LinkedIn: [Mario Randrianomearisoa](https://www.linkedin.com/in/mario-randrianomearisoa/)
 - Twitter: [@RanjaMario](https://twitter.com/RanjaMario)
 
+## Name: Swaraj
+
+- Place: India
+- GitHub: [@swarajzz](https://github.com/swarajzz)
+- LinkedIn: [Swaraj .](https://www.linkedin.com/in/swaraj-b4a8511b8//)
+- Twitter: [@swarajzzz](https://twitter.com/swarajzzz)
+
 ## Name: Sambath Vatana
 
 - Place: Cambodia
@@ -158,11 +183,12 @@
 - Portfolio: same as GitHub for now
 
 ## Name: Swadeshit27
-* Place: India
-* GitHub: [Swadesh Pal](https://github.com/Swadeshit27)
-* LinkedIn: [Swadesh Pal](https://www.linkedin.com/in/swadesh-pal-204036228/)
-* Twitter: [@Swadesh_Pal27](https://twitter.com/Swadesh_Pal27)
- 
+
+- Place: India
+- GitHub: [Swadesh Pal](https://github.com/Swadeshit27)
+- LinkedIn: [Swadesh Pal](https://www.linkedin.com/in/swadesh-pal-204036228/)
+- Twitter: [@Swadesh_Pal27](https://twitter.com/Swadesh_Pal27)
+
 ## Name: Armel Munyaneza
 
 - Place: Rwanda
@@ -218,10 +244,11 @@
 - LinkedIn: [Sneha Das](https://www.linkedin.com/in/sneha-das-3b94b9226/)
 
 ## Name: Avi Jain
-* Place: India
-* GitHub: [peiche](https://github.com/avijain09)
-* LinkedIn: [Paul Eiche](https://www.linkedin.com/in/avi-jain-33564422b/)
-* Twitter: [wavetree](https://twitter.com/AVIJAIN04637133)
+
+- Place: India
+- GitHub: [peiche](https://github.com/avijain09)
+- LinkedIn: [Paul Eiche](https://www.linkedin.com/in/avi-jain-33564422b/)
+- Twitter: [wavetree](https://twitter.com/AVIJAIN04637133)
 
 ## Name: Muhammad Immad
 
@@ -237,6 +264,7 @@
 - Twitter: [@KPatelD1](https://twitter.com/KPatelD1)
 
 ## Name: Rohan Gope
+
 - Place: India
 - GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
 - Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
@@ -244,18 +272,19 @@
 - LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
 ## Name: Emaad Ahmed
-* Place: India
-* Job: Student
-* GitHub: [GigabyteZX1](http://github.com/GigabyteZX1)
-* LinkedIn: [Emaad Ahmed](https://www.linkedin.com/in/emaad-ahmed-511032222)
-* Twitter: [EmaadAhmed93112](https://twitter.com/EmaadAhmed93112)
-* Portfolio: Same as Github
 
 - Place: India
-- GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
-- Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
-- Twitter: [RohanGope6](https://twitter.com/RohanGope6)
-- LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
+- Job: Student
+- GitHub: [GigabyteZX1](http://github.com/GigabyteZX1)
+- LinkedIn: [Emaad Ahmed](https://www.linkedin.com/in/emaad-ahmed-511032222)
+- Twitter: [EmaadAhmed93112](https://twitter.com/EmaadAhmed93112)
+- Portfolio: Same as Github
+
+* Place: India
+* GitHub: [@Darkrider0007](http://github.com/Darkrider0007)
+* Portfolio: [Rohan Gope](https://rohan00001.github.io/new-project/)
+* Twitter: [RohanGope6](https://twitter.com/RohanGope6)
+* LinkedIn: [Rohan Gope](https://www.linkedin.com/in/rohan-gope-a96072199/)
 
 ## Name: Ansh Mondal
 
@@ -266,25 +295,28 @@
 - Portfolio: [Ansh Mondal](https://anshmondal.netlify.app/)
 
 ## Name: Gaurang Agrawal
-* Place:India
-* Job: Student
-* Github:[@Gaurang1602](https://github.com/Gaurang1602)
-* Linkedin:[Gaurang Agrawal](https://www.linkedin.com/in/gaurang-agrawal-5b5879229/)
-* Twitter:[Gaurang Agrawal](https://twitter.com/Gaurang1602)
+
+- Place:India
+- Job: Student
+- Github:[@Gaurang1602](https://github.com/Gaurang1602)
+- Linkedin:[Gaurang Agrawal](https://www.linkedin.com/in/gaurang-agrawal-5b5879229/)
+- Twitter:[Gaurang Agrawal](https://twitter.com/Gaurang1602)
 
 ## Name: Akshat Khandelwal
-* Place: India
-* Job: Java & Android Developer
-* GitHub: [@AkshatK1](https://github.com/AkshatK1)
-* LinkedIn: [Akshat Khandelwal](https://www.linkedin.com/in/akshatk1/)
-* Twitter: [MaelstromWhirl](https://twitter.com/MaelstromWhirl)
+
+- Place: India
+- Job: Java & Android Developer
+- GitHub: [@AkshatK1](https://github.com/AkshatK1)
+- LinkedIn: [Akshat Khandelwal](https://www.linkedin.com/in/akshatk1/)
+- Twitter: [MaelstromWhirl](https://twitter.com/MaelstromWhirl)
 
 ## Name: Bikramjit Saha
-* Place: India
-* Github: [Bikramjit21](https://github.com/Bikramjit21)
-* LinkedIn: [Bikramjit Saha](https://www.linkedin.com/in/bikramjit-saha-44b3251a0/)
-* Twitter: [Bikramjit Saha](https://twitter.com/bikramjitindia)
-* Youtube: [Bikramjit Saha](https://www.youtube.com/channel/UCooyvvpFagid_7UHIA-GiRw)
+
+- Place: India
+- Github: [Bikramjit21](https://github.com/Bikramjit21)
+- LinkedIn: [Bikramjit Saha](https://www.linkedin.com/in/bikramjit-saha-44b3251a0/)
+- Twitter: [Bikramjit Saha](https://twitter.com/bikramjitindia)
+- Youtube: [Bikramjit Saha](https://www.youtube.com/channel/UCooyvvpFagid_7UHIA-GiRw)
 
 ## Name: Nikhil Vashisht
 
@@ -306,22 +338,25 @@
 - Youtube: [Bikramjit Saha](https://www.youtube.com/channel/UCooyvvpFagid_7UHIA-GiRw)
 
 ## Name: Khushal Gupta
-* Place: India
-* GitHub: [@khushal-gupta22](https://github.com/Khushal-gupta22)
-* Twittter: [@khushaaalll0_0](https://twitter.com/khushaaalll0_0)
-* LinkedIn: [Khushal Gupta](https://www.linkedin.com/in/khushal-gupta-a899821a3)
+
+- Place: India
+- GitHub: [@khushal-gupta22](https://github.com/Khushal-gupta22)
+- Twittter: [@khushaaalll0_0](https://twitter.com/khushaaalll0_0)
+- LinkedIn: [Khushal Gupta](https://www.linkedin.com/in/khushal-gupta-a899821a3)
 
 ## Name: Swarnit Sinha
-* Place: India 
-* GitHub: [@SwarnitSinha](https://github.com/SwarnitSinha)
-* Portfolio: [Swarnit Sinha](https://swarnitsinha.github.io/myportfolio/)
-* Twitter: [@swarnitsinha](https://twitter.com/swarnitsinha)
-* LinkedIn: [Swarnit Sinha](https://www.linkedin.com/in/swarnitsinha)
+
+- Place: India
+- GitHub: [@SwarnitSinha](https://github.com/SwarnitSinha)
+- Portfolio: [Swarnit Sinha](https://swarnitsinha.github.io/myportfolio/)
+- Twitter: [@swarnitsinha](https://twitter.com/swarnitsinha)
+- LinkedIn: [Swarnit Sinha](https://www.linkedin.com/in/swarnitsinha)
 
 ## Name: Atharva Nimbalkar
-* Place: India 
-* GitHub: [@Atharva-Nimbalkar](https://github.com/Atharva-Nimbalkar)
-* LinkedIn: [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
+
+- Place: India
+- GitHub: [@Atharva-Nimbalkar](https://github.com/Atharva-Nimbalkar)
+- LinkedIn: [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
 
 ## Name: Tatwansh Jaiswal
 
@@ -338,21 +373,24 @@
 - LinkedIn:
   [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
 - LinkedIn: [Atharva Nimbalkar](https://www.linkedin.com/in/atharva-nimbalkar-80a54322b)
- 
+
 ## Name: Gopi Vaibhav
-* Place: India 
-* GitHub: [@gopivaibhav](http://github.com/gopivaibhav)
-* LinkedIn: [Gopi Vaibhav](https://www.linkedin.com/in/gopivaibhav)
+
+- Place: India
+- GitHub: [@gopivaibhav](http://github.com/gopivaibhav)
+- LinkedIn: [Gopi Vaibhav](https://www.linkedin.com/in/gopivaibhav)
 
 ## Name: Kavya Karthik
-* Place: USA
-* Job: Student
-* GitHub: [kkavya30](https://github.com/kkavya30)
+
+- Place: USA
+- Job: Student
+- GitHub: [kkavya30](https://github.com/kkavya30)
 
 ## Name: Ujjwal Aggarwal
-* Place: India
-* Job: Student, pursuing degree in computer science
-* GitHub: [UjjwalAggarwal-1](http://github.com/UjjwalAggarwal-1)
+
+- Place: India
+- Job: Student, pursuing degree in computer science
+- GitHub: [UjjwalAggarwal-1](http://github.com/UjjwalAggarwal-1)
 
 ## Name: Wanderson José
 
@@ -363,6 +401,7 @@
 - Portfolio: [devwander](https://devwander.github.io/)
 
 ## Name: Viveena
+
 - Place: India
 - GitHub: [@viveena30](http://github.com/viveena30)
 - Twitter: [@viveenaa](https://twitter.com/viveenaa)
@@ -434,6 +473,7 @@
 - Portfolio: same as github for now
 
 ## Name: Kapil
+
 - Place: India
 - Job:Java Developer
 - GitHub: [@KapilKumar7](http://github.com/KapilKumar7)
@@ -586,6 +626,7 @@
 - LinkedIn: [Kevin Paul Babu](https://www.linkedin.com/in/kevin-paul-babu-737b28187/)
 
 ## Name : Vishrut Agarwalla
+
 - Place: India
 - GitHub: [@Vishrut19](https://github.com/Vishrut19)
 - Twitter: [@Vishrut19](https://twitter.com/vishrut19)
@@ -616,7 +657,7 @@
 - GitHub: [@Jvictorvieira](https://github.com/Jvictorvieira)
 - Portfolio: [João Victor Vieira](https://jvictorvieira.github.io/Portfolio/)
 - LinkedIn: [João Victor Vieira](https://www.linkedin.com/in/jvictorvieirasantos/)
- 
+
 ## Name: Faizan Potrick
 
 - Place: India
@@ -635,11 +676,12 @@
 - Portfolio: Same as Github for now(https://github.com/thesuaveguy)
 
 ## Name: Tejas Shinde
-* Place: India
-* Job: Engieering Student
-* GitHub: [@Tejas124](http://github.com/tejas124)
-* Twitter: [Tejassh12](https://twitter.com/tejassh12)
-* LinkedIn: [Tejas Shinde](https://www.linkedin.com/in/tejas-shinde-93717a20b/)
+
+- Place: India
+- Job: Engieering Student
+- GitHub: [@Tejas124](http://github.com/tejas124)
+- Twitter: [Tejassh12](https://twitter.com/tejassh12)
+- LinkedIn: [Tejas Shinde](https://www.linkedin.com/in/tejas-shinde-93717a20b/)
 
 ## Name: Chirag Tyagi
 
@@ -650,13 +692,15 @@
 - Portfolio: Same as GitHub for now
 
 ## Name: Satyapriyo Biswas
-* Place: India
-* Job: Student, Pursuing b.tech in Information technology
-* GitHub: [Satyapriyo](https://github.com/Satyapriyo)
-* LinkedIn: [Satyapriyo Biswas](https://www.linkedin.com/in/satyapriyo-biswas-b88073225/)
-* Portfolio: [Satyapriyo](https://portfolio-satyapriyo.vercel.app/)
+
+- Place: India
+- Job: Student, Pursuing b.tech in Information technology
+- GitHub: [Satyapriyo](https://github.com/Satyapriyo)
+- LinkedIn: [Satyapriyo Biswas](https://www.linkedin.com/in/satyapriyo-biswas-b88073225/)
+- Portfolio: [Satyapriyo](https://portfolio-satyapriyo.vercel.app/)
 
 ## Name: Shubh Sardana
+
 - Place: India
 - Job: Student
 - Github: [@shubhsardana29](https://github.com/shubhsardana29)
@@ -743,6 +787,7 @@
 - LinkedIn: [John Marcial](https://www.linkedin.com/in/johnmarloumarcial/)
 
 ## Name: Zainab Ibraheem
+
 - Place: Nigeria
 - Job: Data Scientist
 - GitHub: [Zainab Ibraheem](https://github.com/mojiibraheem)
@@ -758,6 +803,7 @@
       * Twitter: [Ayushsstwt](https://twitter.com/Ayushsstwt)
 
 ## Name: Ankan Garai
+
 - Place: India
 - Job: Student
 - GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
@@ -765,6 +811,14 @@
 - Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
 - Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
+## Name: Mayuri Agrawal
+
+- Place: India
+- Job: Student
+- Github: [mayuri-agrawal](https://github.com/mayuri-agrawal)
+- LinkedIn: [Mayuri Agrawal](https://www.linkedin.com/in/mayuri-agrawal-b97234214)
+- Twitter: [Mayuri Agrawal](https://twitter.com/home)
+- Portfolio: [mayuri-agrawal](https://mayuri-agrawal.github.io/CV/)
 
 ## Name: Anjali Singh
 
@@ -775,12 +829,13 @@
 - Twitter: [Anjali](https://twitter.com/anjali_236)
 
 ## Name: Nikhil Butani
-* Place: India
-* Job: Student
-* GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
-* LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
-* Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
-* Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
+
+- Place: India
+- Job: Student
+- GitHub: [@RonnieCOOL](https://github.com/RonnieCOOL)
+- LinkedIn: [Ankan Garai](https://www.linkedin.com/in/ankan-garai-908a37221/)
+- Twitter: [Ankan Garai](https://twitter.com/AnkanGarai03)
+- Portfolio: [Dummy(Made by me)](https://ronniecool.github.io/Portfolio-Website/)
 
 ## Name: Rachel Schipull
 
@@ -792,53 +847,71 @@
 - Portfolio: [rachelschipull.com](https://rachelschipull.com/)
 
 ## Name: Martin Wangata
+
 - Place: Nairobi, Kenya.
 - Job: [Software Developer]
 - GitHub: [Wangata](https://github.com/Wangata)
 - LinkedIn: [Martin Wangata](https://www.linkedin.com/in/martinwangata/)
-- Twitter: [Wangata_](https://twitter.com/Wangata_)
+- Twitter: [Wangata\_](https://twitter.com/Wangata_)
 - Website: [Wangata](https://wangata.netlify.app/)
 
-## Name: Laura Ferraz 
-* Place: Brazil
-* Job: Full Stack Developer
-* GitHub: [lauraferraz5](https://github.com/lauraferraz5/Dev-Connections.git)
-* LinkedIn: [Laura Ferraz Cavalcanti](https://www.linkedin.com/in/lauraferrazcavalcanti/)
-* Twitter: [Laura Ferraz](https://twitter.com/f_lauraferraz)
-* Portfolio: [lauraferraz5](https://github.com/lauraferraz5/Dev-Connections.git)
+## Name: Laura Ferraz
 
- ## Name: Ivan Cvetkovic
- * Place: Serbia
- * Job: Your Job Title
- * GitHub: [Burekslayer](https://github.com/Burekslayer)
- * LinkedIn: [Ivan Cvetkovic](https://www.linkedin.com/in/burekslayer/)
- * Twitter: [@Ivca944](https://twitter.com/Ivca944)
- * Portfolio: [Ivan Cvetkovic](https://resplendent-meringue-e33275.netlify.app/)
+- Place: Brazil
+- Job: Full Stack Developer
+- GitHub: [lauraferraz5](https://github.com/lauraferraz5/Dev-Connections.git)
+- LinkedIn: [Laura Ferraz Cavalcanti](https://www.linkedin.com/in/lauraferrazcavalcanti/)
+- Twitter: [Laura Ferraz](https://twitter.com/f_lauraferraz)
+- Portfolio: [lauraferraz5](https://github.com/lauraferraz5/Dev-Connections.git)
+
+## Name: Ivan Cvetkovic
+
+- Place: Serbia
+- Job: Your Job Title
+- GitHub: [Burekslayer](https://github.com/Burekslayer)
+- LinkedIn: [Ivan Cvetkovic](https://www.linkedin.com/in/burekslayer/)
+- Twitter: [@Ivca944](https://twitter.com/Ivca944)
+- Portfolio: [Ivan Cvetkovic](https://resplendent-meringue-e33275.netlify.app/)
 
 ## Name: Jayson Clark
-* Place: United States of America
-* Job: Student
-* Github: [Jaysonc0421](https://github.com/Jaysonc0421)
-* Twitter: [_jayson_clark_](https://twitter.com/_jayson_clark_)
-* Portfolio: [jaysonc.dev, Brand new, W.I.P.](https://jaysonc.dev)
 
-* Job: Developer
-* GitHub: [@nikhilbuts](https://github.com/nikhilbuts)
-* LinkedIn: [Nikhil Butani](https://in.linkedin.com/in/nikhilbutani/)
-* Twitter: [Nikhil Butani](https://twitter.com/butani_nikhil)
+- Place: United States of America
+- Job: Student
+- Github: [Jaysonc0421](https://github.com/Jaysonc0421)
+- Twitter: [_jayson_clark_](https://twitter.com/_jayson_clark_)
+- Portfolio: [jaysonc.dev, Brand new, W.I.P.](https://jaysonc.dev)
+
+- Job: Developer
+- GitHub: [@nikhilbuts](https://github.com/nikhilbuts)
+- LinkedIn: [Nikhil Butani](https://in.linkedin.com/in/nikhilbutani/)
+- Twitter: [Nikhil Butani](https://twitter.com/butani_nikhil)
 
 ## Name: Cristina
-		* Place: Romania
-		* Job: PhD student
-		* GitHub: [CristinaEU1](https://github.com/CristinaEU1)
-		* LinkedIn: [Cristina](https://www.linkedin.com/in/cristinaelenaungureanu/)
-		* Portfolio: [Portfolio Name](https://linktr.ee/Cristina.Elena.U)
-	  
+
+    	* Place: Romania
+    	* Job: PhD student
+    	* GitHub: [CristinaEU1](https://github.com/CristinaEU1)
+    	* LinkedIn: [Cristina](https://www.linkedin.com/in/cristinaelenaungureanu/)
+    	* Portfolio: [Portfolio Name](https://linktr.ee/Cristina.Elena.U)
+
 ## Name: Adwaith Krishna
+
 - Place: India
 - Job: Student persuing CSE
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
+- 
+## Name: Manmeet kaur
+- Place: India
+- Job: Student persuing CSE
+- GitHub: [@Manmeetkaur1525](https://github.com/Manmeetkaur1525)
+- LinkedIn: [Manmeetkaur](https://www.linkedin.com/in/manmeet-kaur-7620241b7/)
+
+## Name: Anmol Bansal
+- Place: India
+- Job: Student pursuing B.Tech
+- Github: [theblazingone](https://github.com/theblazingone)
+- LinkedIn: [anmolbansal2142](https://www.linkedin.com/in/anmolbansal2142/)
 
 ## Name: Chandrashekhar Kachawa
 
@@ -850,11 +923,13 @@
 - LinkedIn: [Chandrashekhar Kachawa](https://www.linkedin.com/in/chandrashekhar-kachawa-823017246/)
 
 ## Name: Aditi
+
 - Place: India
 - Job: CSE Student
--  GitHub: [Foxtrot31](https://github.com/Foxtrot31)
+- GitHub: [Foxtrot31](https://github.com/Foxtrot31)
 
 ## Name: Shyaka Tresor
+
 - Place: Rwanda
 - Job: Software Engineer
 - Github: [shyakadev](https://github.com/shyakadev/)
@@ -863,12 +938,6 @@
 - codepen: [shyakalt](https://codepen.io/shyakalt)
 
 
-## Name: Tharaneeshwaran V U
- * Place: India
- * Job: Student
- * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
- * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
-
 ## Name: Lucas Pavanelli
 * Place: Brazil
 * Job: Applied Scientist
@@ -876,3 +945,51 @@
 * LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
 * Twitter: [pavalucas](https://twitter.com/pavalucas)
 * Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
+
+## Name: Tharaneeshwaran V U
+
+- Place: India
+- Job: Student
+- GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
+- LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
+ 
+## Name: Siddhi Agarkar
+- Place: Mumbai, India
+- Job: Sophomore at NIT DGP
+- GitHub: [siddhiagarkar](https://github.com/siddhiagarkar)
+- LinkedIn: [SIDDHI AGARKAR](https://www.linkedin.com/in/siddhi-agarkar-56b7a8231/)
+
+## Name: Arsalan
+  * Place: Pakistan
+  * Job: Senior Frontend Developer
+  * GitHub: [aayanqazi](https://github.com/aayanqazi)
+  * LinkedIn: [Arsalan Sabir](https://www.linkedin.com/in/arsalan-sabir/)
+  * Twitter: [Arsalan Sabir](https://twitter.com/aayanqazi)
+
+## Name: Loreto Gutierrez
+ * Place: Philippines
+ * Job: Freelance
+ * GitHub / Portfolio: [loretogutierrezjr](https://github.com/loretogutierrezjr)
+
+## Name: Pulkit Handa
+- Place: India
+- Job: High School Student
+- Github: [pulkithanda](https://github.com/pulkithanda)
+- LinkedIn: [Pulkit Handa](https://www.linkedin.com/in/pulkit-handa-2286721aa/)
+- Twitter: [@PTHanda2005](https://twitter.com/PTHanda2005)
+- Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)
+
+## Name: Tiago Bodin
+
+- Place: France
+- Job: Python Developer
+- GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Anushtha Bageria
+
+- Place: India
+- Job: Student
+- GitHub: [anu-phoenix](https://github.com/anu-phoenix)
+- Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
+- LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)
+ 

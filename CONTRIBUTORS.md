@@ -14,6 +14,13 @@
 - GitHub: [Gr33nLight](https://github.com/Gr33nLight)
 - DEV: [jerodsanto](https://dev.to/gr33nlight)
 
+
+## Name: Yaashi
+- Place: Delhi,India
+- Job: Student
+- GitHub: [ym2108](https://github.com/ym2108)
+- LinkedIn: [yaashi-madan](https://www.linkedin.com/in/yaashi-madan/)
+
 ## Name: Jerod Santo
 
 - Place: Omaha, NE, USA
@@ -30,6 +37,12 @@
 - Place: India
 - GitHub: [V-I-S-H-N-U](https://github.com/V-I-S-H-N-U)
 - Twitter: [Vishnu](https://twitter.com/VishnuSPramod?t=e0IQP2eemsilwNaqUTm_9A&s=09)
+
+## Name: Devanshu
+
+- Place: Gujarat,India
+- GitHub: (https://github.com/Devanshudd)
+- LinkedIn: (https://www.linkedin.com/in/devanshu-dudhia-b299aa184/)
 
 ## Name: TheRedSpy15
 
@@ -933,6 +946,15 @@
 - LinkedIn: [shyaka tresor](https://www.linkedin.com/in/shyaka-tresor-12b843a3/)
 - codepen: [shyakalt](https://codepen.io/shyakalt)
 
+
+## Name: Lucas Pavanelli
+* Place: Brazil
+* Job: Applied Scientist
+* GitHub: [pavalucas](https://github.com/pavalucas)
+* LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
+* Twitter: [pavalucas](https://twitter.com/pavalucas)
+* Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
+
 ## Name: Tharaneeshwaran V U
 
 - Place: India
@@ -983,3 +1005,12 @@
 - GitHub: [Enkhbaatar](https://github.com/kadar77)
 - LinkedIn: [Enkhbaatar](https://www.linkedin.com/in/enkhbaatar-batochir/)
 - Twitter: [@enkhbtr](https://twitter.com/enkhbtr)
+
+## Name: Anushtha Bageria
+
+- Place: India
+- Job: Student
+- GitHub: [anu-phoenix](https://github.com/anu-phoenix)
+- Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
+- LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)
+ 

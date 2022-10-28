@@ -1038,3 +1038,10 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+## Name: Henrique Oliveira
+
+- Place: Brasil
+- Job: Student
+- GitHub: [pand-oly](https://github.com/pand-oly)
+- LinkedIn:[Rick Oly](https://www.linkedin.com/in/rick-oly/)

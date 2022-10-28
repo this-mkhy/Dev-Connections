@@ -968,3 +968,10 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Arun Gound
+- Place: india
+- Job: college Student
+- Github: [kakkarot0](https://github.com/kakkarot0)
+- LinkedIn: [Arun Gound](https://www.linkedin.com/in/arun-gound-80463821a/)
+

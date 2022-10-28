@@ -968,3 +968,11 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Anushtha Bageria
+
+- Place: India
+- Job: Student
+- GitHub: [anu-phoenix](https://github.com/anu-phoenix)
+- Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
+- LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)

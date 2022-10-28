@@ -1,3 +1,4 @@
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -13,6 +14,13 @@
 - Place: Padua, ITA
 - GitHub: [Gr33nLight](https://github.com/Gr33nLight)
 - DEV: [jerodsanto](https://dev.to/gr33nlight)
+
+
+## Name: Yaashi
+- Place: Delhi,India
+- Job: Student
+- GitHub: [ym2108](https://github.com/ym2108)
+- LinkedIn: [yaashi-madan](https://www.linkedin.com/in/yaashi-madan/)
 
 ## Name: Jerod Santo
 
@@ -30,6 +38,12 @@
 - Place: India
 - GitHub: [V-I-S-H-N-U](https://github.com/V-I-S-H-N-U)
 - Twitter: [Vishnu](https://twitter.com/VishnuSPramod?t=e0IQP2eemsilwNaqUTm_9A&s=09)
+
+## Name: Devanshu
+
+- Place: Gujarat,India
+- GitHub: (https://github.com/Devanshudd)
+- LinkedIn: (https://www.linkedin.com/in/devanshu-dudhia-b299aa184/)
 
 ## Name: TheRedSpy15
 
@@ -893,14 +907,17 @@
 - Job: Student persuing CSE
 - GitHub: [@ROCKSTAR040](https://github.com/ROCKSTAR040)
 - LinkedIn: [Adwaith Krishna](https://www.linkedin.com/in/adwaith-krishna-7a7390219/)
-- 
+-
+
 ## Name: Manmeet kaur
+
 - Place: India
 - Job: Student persuing CSE
 - GitHub: [@Manmeetkaur1525](https://github.com/Manmeetkaur1525)
 - LinkedIn: [Manmeetkaur](https://www.linkedin.com/in/manmeet-kaur-7620241b7/)
 
 ## Name: Anmol Bansal
+
 - Place: India
 - Job: Student pursuing B.Tech
 - Github: [theblazingone](https://github.com/theblazingone)
@@ -930,31 +947,44 @@
 - LinkedIn: [shyaka tresor](https://www.linkedin.com/in/shyaka-tresor-12b843a3/)
 - codepen: [shyakalt](https://codepen.io/shyakalt)
 
+
+## Name: Lucas Pavanelli
+* Place: Brazil
+* Job: Applied Scientist
+* GitHub: [pavalucas](https://github.com/pavalucas)
+* LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
+* Twitter: [pavalucas](https://twitter.com/pavalucas)
+* Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
+
 ## Name: Tharaneeshwaran V U
 - Place: India
 - Job: Student
 - GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
 - LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
- 
+
 ## Name: Siddhi Agarkar
+
 - Place: Mumbai, India
 - Job: Sophomore at NIT DGP
 - GitHub: [siddhiagarkar](https://github.com/siddhiagarkar)
 - LinkedIn: [SIDDHI AGARKAR](https://www.linkedin.com/in/siddhi-agarkar-56b7a8231/)
 
 ## Name: Arsalan
-  * Place: Pakistan
-  * Job: Senior Frontend Developer
-  * GitHub: [aayanqazi](https://github.com/aayanqazi)
-  * LinkedIn: [Arsalan Sabir](https://www.linkedin.com/in/arsalan-sabir/)
-  * Twitter: [Arsalan Sabir](https://twitter.com/aayanqazi)
+
+- Place: Pakistan
+- Job: Senior Frontend Developer
+- GitHub: [aayanqazi](https://github.com/aayanqazi)
+- LinkedIn: [Arsalan Sabir](https://www.linkedin.com/in/arsalan-sabir/)
+- Twitter: [Arsalan Sabir](https://twitter.com/aayanqazi)
 
 ## Name: Loreto Gutierrez
- * Place: Philippines
- * Job: Freelance
- * GitHub / Portfolio: [loretogutierrezjr](https://github.com/loretogutierrezjr)
+
+- Place: Philippines
+- Job: Freelance
+- GitHub / Portfolio: [loretogutierrezjr](https://github.com/loretogutierrezjr)
 
 ## Name: Pulkit Handa
+
 - Place: India
 - Job: High School Student
 - Github: [pulkithanda](https://github.com/pulkithanda)
@@ -972,3 +1002,39 @@
  * Job: Your Software Engineer
  * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
  * LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
+
+## Name: Lucyan Ovídio
+- Place: Brazil
+- Job: Freelance Frontend Developer
+- Github: [lucyanovidio](https://github.com/lucyanovidio)
+- LinkedIn: [Lucyan Ovídio](https://www.linkedin.com/in/lucyanovidio)
+- Twitter: [@lucyanovidio](https://twitter.com/lucyanovidio)
+- Portfolio: [Lucyan Ovídio](https://lucyanovidio.vercel.app)
+
+## Name: Ishita Ojha
+- Place: India
+- Job: Student
+- GitHub: [ishitaojha](https://github.com/ishitaojha)
+- LinkedIn: [Ishita Ojhae](https://www.linkedin.com/in/ishita-ojha-2000/)
+
+## Name: Enkhbaatar
+
+- Place: Japan
+- Job: Developer
+- GitHub: [Enkhbaatar](https://github.com/kadar77)
+- LinkedIn: [Enkhbaatar](https://www.linkedin.com/in/enkhbaatar-batochir/)
+- Twitter: [@enkhbtr](https://twitter.com/enkhbtr)
+
+## Name: Anushtha Bageria
+
+- Place: India
+- Job: Student
+- GitHub: [anu-phoenix](https://github.com/anu-phoenix)
+- Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
+- LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)
+
+## Name: Tanikesh Sharma
+
+- Place: India
+- GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
+- LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)

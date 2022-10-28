@@ -968,3 +968,9 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: YJ You
+* Place: New Zealand
+* Job: Frontend software developer
+* GitHub: [DEV-YJY](https://github.com/DEV-YJY)
+* LinkedIn: [YJ You](https://www.linkedin.com/feed/)

@@ -1004,6 +1004,12 @@
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
 
+## Name: Ishita Ojha
+- Place: India
+- Job: Student
+- GitHub: [ishitaojha](https://github.com/ishitaojha)
+- LinkedIn: [Ishita Ojhae](https://www.linkedin.com/in/ishita-ojha-2000/)
+
 ## Name: Enkhbaatar
 
 - Place: Japan
@@ -1019,4 +1025,4 @@
 - GitHub: [anu-phoenix](https://github.com/anu-phoenix)
 - Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
 - LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)
- 
+

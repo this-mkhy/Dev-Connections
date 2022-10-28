@@ -957,7 +957,6 @@
 * Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
 
 ## Name: Tharaneeshwaran V U
-
 - Place: India
 - Job: Student
 - GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
@@ -994,10 +993,15 @@
 - Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)
 
 ## Name: Tiago Bodin
-
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+ ## Name: Patryk Buda
+ * Place: Cardiff
+ * Job: Your Software Engineer
+ * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
+ * LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
 
 ## Name: Lucyan Ovídio
 - Place: Brazil
@@ -1034,4 +1038,3 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
-

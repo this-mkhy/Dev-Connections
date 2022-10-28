@@ -943,6 +943,15 @@
 - LinkedIn: [shyaka tresor](https://www.linkedin.com/in/shyaka-tresor-12b843a3/)
 - codepen: [shyakalt](https://codepen.io/shyakalt)
 
+
+## Name: Lucas Pavanelli
+* Place: Brazil
+* Job: Applied Scientist
+* GitHub: [pavalucas](https://github.com/pavalucas)
+* LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
+* Twitter: [pavalucas](https://twitter.com/pavalucas)
+* Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
+
 ## Name: Tharaneeshwaran V U
 
 - Place: India
@@ -989,3 +998,4 @@
 - GitHub: [anu-phoenix](https://github.com/anu-phoenix)
 - Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
 - LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)
+ 

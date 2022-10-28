@@ -1038,3 +1038,10 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+
+ ## Name: Maximus Smith
+ - Place: United States
+ - Job: Student
+ - Github: [maximusmith529](https://github.com/maximusmith529/)
+ - LinkedIn: [maximusmith](https://www.linkedin.com/in/maximusmith/)

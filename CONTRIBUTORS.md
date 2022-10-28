@@ -1038,3 +1038,11 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+## Name: Kayhan
+
+- Place: Turkey
+- Job: Student
+- GitHub: [SwitchAlpha](https://github.com/switchalpha)
+- Twitter: [@switchalpha](https://twitter.com/switchalpha)
+- Portfolio: [Portfolio](http://switchalpha.dev/)

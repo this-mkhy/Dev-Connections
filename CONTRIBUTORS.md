@@ -1,8 +1,3 @@
-## Name: Tanikesh Sharma
-
-- Place: India
-- GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
-- LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
 ## Name: Mohamed Khaled Yousef
 
@@ -1004,6 +999,14 @@
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
 
+## Name: Lucyan Ovídio
+- Place: Brazil
+- Job: Freelance Frontend Developer
+- Github: [lucyanovidio](https://github.com/lucyanovidio)
+- LinkedIn: [Lucyan Ovídio](https://www.linkedin.com/in/lucyanovidio)
+- Twitter: [@lucyanovidio](https://twitter.com/lucyanovidio)
+- Portfolio: [Lucyan Ovídio](https://lucyanovidio.vercel.app)
+
 ## Name: Ishita Ojha
 - Place: India
 - Job: Student
@@ -1025,4 +1028,10 @@
 - GitHub: [anu-phoenix](https://github.com/anu-phoenix)
 - Portfolio: [Anushtha Bageria](http://phoenix-anu.herokuapp.com/)
 - LinkedIn: [Anushtha Bageria](https://www.linkedin.com/in/anushtha-bageria/)
+
+## Name: Tanikesh Sharma
+
+- Place: India
+- GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
+- LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 

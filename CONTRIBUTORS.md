@@ -968,3 +968,11 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Lucyan Ovídio
+- Place: Brazil
+- Job: Freelance Frontend Developer
+- Github: [lucyanovidio](https://github.com/lucyanovidio)
+- LinkedIn: [Lucyan Ovídio](https://www.linkedin.com/in/lucyanovidio)
+- Twitter: [@lucyanovidio](https://twitter.com/lucyanovidio)
+- Portfolio: [Lucyan Ovídio](https://lucyanovidio.vercel.app)

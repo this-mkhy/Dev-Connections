@@ -1,4 +1,3 @@
-
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
@@ -15,8 +14,8 @@
 - GitHub: [Gr33nLight](https://github.com/Gr33nLight)
 - DEV: [jerodsanto](https://dev.to/gr33nlight)
 
-
 ## Name: Yaashi
+
 - Place: Delhi,India
 - Job: Student
 - GitHub: [ym2108](https://github.com/ym2108)
@@ -947,16 +946,17 @@
 - LinkedIn: [shyaka tresor](https://www.linkedin.com/in/shyaka-tresor-12b843a3/)
 - codepen: [shyakalt](https://codepen.io/shyakalt)
 
-
 ## Name: Lucas Pavanelli
-* Place: Brazil
-* Job: Applied Scientist
-* GitHub: [pavalucas](https://github.com/pavalucas)
-* LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
-* Twitter: [pavalucas](https://twitter.com/pavalucas)
-* Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
+
+- Place: Brazil
+- Job: Applied Scientist
+- GitHub: [pavalucas](https://github.com/pavalucas)
+- LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
+- Twitter: [pavalucas](https://twitter.com/pavalucas)
+- Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
 
 ## Name: Tharaneeshwaran V U
+
 - Place: India
 - Job: Student
 - GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
@@ -993,17 +993,20 @@
 - Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)
 
 ## Name: Tiago Bodin
+
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
 
- ## Name: Patryk Buda
- * Place: Cardiff
- * Job: Your Software Engineer
- * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
- * LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
+## Name: Patryk Buda
+
+- Place: Cardiff
+- Job: Your Software Engineer
+- GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
+- LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
 
 ## Name: Lucyan Ovídio
+
 - Place: Brazil
 - Job: Freelance Frontend Developer
 - Github: [lucyanovidio](https://github.com/lucyanovidio)
@@ -1012,6 +1015,7 @@
 - Portfolio: [Lucyan Ovídio](https://lucyanovidio.vercel.app)
 
 ## Name: Ishita Ojha
+
 - Place: India
 - Job: Student
 - GitHub: [ishitaojha](https://github.com/ishitaojha)
@@ -1038,3 +1042,10 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+## Name: Ágata Mascarenhas
+
+- Place: Portugal
+- Job: Civil Engineer/Developer
+- GitHub: [agataxmascarenhas](https://github.com/agataxmascarenhas)
+- LinkedIn:[Ágata Mascarenhas](https://www.linkedin.com/in/avscm/)

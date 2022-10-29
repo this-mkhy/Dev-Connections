@@ -1038,3 +1038,7 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+## Name: Veronica Walton
+* Place: United States of America
+* GitHub: [VeronicaWDev](https://github.com/VeronicaWDev)

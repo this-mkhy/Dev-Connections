@@ -1069,6 +1069,13 @@
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
+## Name: Aakarsh Jain
+
+- Place: India
+- GitHub: [BlackPanther112358](https://github.com/BlackPanther112358)
+- LinkedIn:
+  [Mohamed Khaled Yousef](linkedin.com/in/aakarsh-jain-4aba91223)
+
 ## Name: Kayhan
 - Place: Turkey
 - Job: Student
@@ -1105,4 +1112,3 @@
 - Portfolio: [Nishant Jain](http://devnishant.co)
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
-

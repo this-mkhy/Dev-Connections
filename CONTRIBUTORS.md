@@ -1038,3 +1038,9 @@
 - Place: India
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+## Name: Huzaifa Nizamani
+- Place: Pakistan
+- Job: Student
+- GitHub: [HuzaifaNizamani](https://github.com/HuzaifaNizamani)
+- LinkedIn: [Huzaifa Nizamani](https://www.linkedin.com/in/huzaifa-nizamani-038065231/)

@@ -949,14 +949,16 @@
 
 
 ## Name: Lucas Pavanelli
-* Place: Brazil
-* Job: Applied Scientist
-* GitHub: [pavalucas](https://github.com/pavalucas)
-* LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
-* Twitter: [pavalucas](https://twitter.com/pavalucas)
-* Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
+
+- Place: Brazil
+- Job: Applied Scientist
+- GitHub: [pavalucas](https://github.com/pavalucas)
+- LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
+- Twitter: [pavalucas](https://twitter.com/pavalucas)
+- Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
 
 ## Name: Tharaneeshwaran V U
+
 - Place: India
 - Job: Student
 - GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
@@ -993,9 +995,17 @@
 - Portfolio: [Pulkit Handa](https://pulkithanda.github.io/Pulkit-Main-Website/#home)
 
 ## Name: Tiago Bodin
+
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Patryk Buda
+
+- Place: Cardiff
+- Job: Your Software Engineer
+- GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
+- LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
 
 ## Name: YJ You
 * Place: New Zealand
@@ -1016,6 +1026,7 @@
  * LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
 
 ## Name: Lucyan Ovídio
+
 - Place: Brazil
 - Job: Freelance Frontend Developer
 - Github: [lucyanovidio](https://github.com/lucyanovidio)
@@ -1024,6 +1035,7 @@
 - Portfolio: [Lucyan Ovídio](https://lucyanovidio.vercel.app)
 
 ## Name: Ishita Ojha
+
 - Place: India
 - Job: Student
 - GitHub: [ishitaojha](https://github.com/ishitaojha)
@@ -1057,6 +1069,14 @@
 - GitHub: [SwitchAlpha](https://github.com/switchalpha)
 - Twitter: [@switchalpha](https://twitter.com/switchalpha)
 - Portfolio: [Portfolio](http://switchalpha.dev/)
+
+## Name: Dharshan J
+
+- Place: India
+- Job: Software Developer Intern
+- GitHub: [Dharshan-J](https://github.com/Dharshan-J)
+- LinkedIn: [Dharshan J](https://www.linkedin.com/in/dharshan-j/)
+- Portfolio: [Dharshan J](https://19euit041.wixsite.com/my-site-2/)
 
 ## Name: Daryl Lukas
  * Place: Zambia

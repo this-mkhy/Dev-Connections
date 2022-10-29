@@ -1045,6 +1045,14 @@
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
+## Name: Daryl Lukas
+ * Place: Zambia
+ * Job: Software Engineer | Developer Advocate
+ * GitHub: [daryllukas](https://github.com/daryllukas)
+ * LinkedIn: [Daryl Lukas](https://www.linkedin.com/in/daryllukas)
+ * Twitter: [daryllukas](https://twitter.com/daryllukas)
+ * Portfolio: [Daryl Lukas](https://daryllukas.me)
+
 ## Name: Henrique Oliveira
 - Place: Brasil
 - Job: Student

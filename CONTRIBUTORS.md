@@ -997,7 +997,13 @@
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
 
- ## Name: Patryk Buda
+## Name: Arun Gound
+- Place: india
+- Job: college Student
+- Github: [kakkarot0](https://github.com/kakkarot0)
+- LinkedIn: [Arun Gound](https://www.linkedin.com/in/arun-gound-80463821a/)
+
+## Name: Patryk Buda
  * Place: Cardiff
  * Job: Your Software Engineer
  * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
@@ -1046,3 +1052,4 @@
 - Portfolio: [Nishant Jain](http://devnishant.co)
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
+

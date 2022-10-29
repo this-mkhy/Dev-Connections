@@ -1,4 +1,10 @@
 
+## Name: Nandini Mehta
+* Place: India
+* Job: Student
+* GitHub: [NandiniMehta0603](https://github.com/NandiniMehta0603)
+* LinkedIn: [Nandini Mehta](https://www.linkedin.com/in/nandini-mehta-0492ab204/)
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt

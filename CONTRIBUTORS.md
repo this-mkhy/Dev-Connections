@@ -997,7 +997,13 @@
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
 
- ## Name: Patryk Buda
+## Name: Arun Gound
+- Place: india
+- Job: college Student
+- Github: [kakkarot0](https://github.com/kakkarot0)
+- LinkedIn: [Arun Gound](https://www.linkedin.com/in/arun-gound-80463821a/)
+
+## Name: Patryk Buda
  * Place: Cardiff
  * Job: Your Software Engineer
  * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
@@ -1040,8 +1046,16 @@
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
 ## Name: Henrique Oliveira
-
 - Place: Brasil
 - Job: Student
 - GitHub: [pand-oly](https://github.com/pand-oly)
 - LinkedIn:[Rick Oly](https://www.linkedin.com/in/rick-oly/)
+
+## Name: Nishant Jain
+- Place: India
+- Job: Student
+- GitHub: [Nishantjain10](https://github.com/Nishantjain10)
+- Portfolio: [Nishant Jain](http://devnishant.co)
+- LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
+- Twitter: [devnishant10](https://twitter.com/devnishant10)
+

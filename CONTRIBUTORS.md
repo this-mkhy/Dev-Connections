@@ -1007,6 +1007,24 @@
 - GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
 - LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
 
+## Name: YJ You
+* Place: New Zealand
+* Job: Frontend software developer
+* GitHub: [DEV-YJY](https://github.com/DEV-YJY)
+* LinkedIn: [YJ You](https://www.linkedin.com/feed/)
+
+## Name: Arun Gound
+- Place: india
+- Job: college Student
+- Github: [kakkarot0](https://github.com/kakkarot0)
+- LinkedIn: [Arun Gound](https://www.linkedin.com/in/arun-gound-80463821a/)
+
+## Name: Patryk Buda
+ * Place: Cardiff
+ * Job: Your Software Engineer
+ * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
+ * LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
+
 ## Name: Lucyan Ovídio
 
 - Place: Brazil
@@ -1052,3 +1070,26 @@
 - GitHub: [Dharshan-J](https://github.com/Dharshan-J)
 - LinkedIn: [Dharshan J](https://www.linkedin.com/in/dharshan-j/)
 - Portfolio: [Dharshan J](https://19euit041.wixsite.com/my-site-2/)
+
+## Name: Daryl Lukas
+ * Place: Zambia
+ * Job: Software Engineer | Developer Advocate
+ * GitHub: [daryllukas](https://github.com/daryllukas)
+ * LinkedIn: [Daryl Lukas](https://www.linkedin.com/in/daryllukas)
+ * Twitter: [daryllukas](https://twitter.com/daryllukas)
+ * Portfolio: [Daryl Lukas](https://daryllukas.me)
+
+## Name: Henrique Oliveira
+- Place: Brasil
+- Job: Student
+- GitHub: [pand-oly](https://github.com/pand-oly)
+- LinkedIn:[Rick Oly](https://www.linkedin.com/in/rick-oly/)
+
+## Name: Nishant Jain
+- Place: India
+- Job: Student
+- GitHub: [Nishantjain10](https://github.com/Nishantjain10)
+- Portfolio: [Nishant Jain](http://devnishant.co)
+- LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
+- Twitter: [devnishant10](https://twitter.com/devnishant10)
+

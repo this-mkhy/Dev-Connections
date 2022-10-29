@@ -15,6 +15,11 @@
 - GitHub: [Gr33nLight](https://github.com/Gr33nLight)
 - DEV: [jerodsanto](https://dev.to/gr33nlight)
 
+## Name: Gitanjali Gore
+
+- Place: India
+- Job: Student
+- Github: [gitssz](https://github.com/gitssz)
 
 ## Name: Yaashi
 - Place: Delhi,India

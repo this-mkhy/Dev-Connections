@@ -1112,3 +1112,8 @@
 - Portfolio: [Nishant Jain](http://devnishant.co)
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
+
+## NAME: Zhihan Tuo
+- Place: United States
+- Job: Student
+- GitHub: [ZhihanTuo](https://github.com/ZhihanTuo)

@@ -1112,3 +1112,10 @@
 - Portfolio: [Nishant Jain](http://devnishant.co)
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
+
+## Name: Your Name
+* Place: United Kingdom
+* Job: Student | Aspiring Software Developer
+* GitHub: [aryanprince](https://github.com/aryanprince)
+* LinkedIn: [Aryan Prince](https://linkedin.com/in/aryanprince)
+* Portfolio: [Aryan Prince](https://aryanprince.com)

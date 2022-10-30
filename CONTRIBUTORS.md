@@ -1116,4 +1116,4 @@
 ## Name: Raspberry
 - Place: India
 - Job: Student
-- GitHub: [S-HARI-S]([https://github.com/Nishantjain10](https://github.com/S-HARI-S))
+- GitHub: [S-HARI-S](https://github.com/S-HARI-S)

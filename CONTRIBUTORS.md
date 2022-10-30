@@ -1112,3 +1112,9 @@
 - Portfolio: [Nishant Jain](http://devnishant.co)
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
+
+## Name: Naj Nashmin
+- Place: United States
+- Job: Software Engineer
+- GitHub: [unnamedrd](https://github.com/unnamedrd)
+- Twitter: [theunnamedroad](https://twitter.com/theunnamedroad)

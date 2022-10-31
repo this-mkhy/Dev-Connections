@@ -1069,6 +1069,14 @@
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
+
+## Name: Boshra Jaber
+* Place: Jordan
+* Job: Web Developer
+* GitHub: [BoshraJaber](https://github.com/BoshraJaber)
+* LinkedIn: [boshra-jaber](https://www.linkedin.com/in/boshra-jaber/)
+* Portfolio: [Resume](https://boshrajaber.github.io/Boshra-Jaber-Resume/)
+
 ## Name: Aakarsh Jain
 
 - Place: India

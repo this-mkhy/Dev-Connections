@@ -1092,7 +1092,7 @@
 - Portfolio: [Dharshan J](https://19euit041.wixsite.com/my-site-2/)
 
 ## Name: Diego Tamayo
-- Place: Colombia
+- Place: Colombia, South america
 - Job: system engineer
 - GitHub: [diegot1998](https://github.com/diegot1998)
 - LinkedIn:[Diegot1998](https://www.linkedin.com/in/Diegot1998/)

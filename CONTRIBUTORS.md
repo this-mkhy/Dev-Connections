@@ -1112,3 +1112,8 @@
 - Portfolio: [Nishant Jain](http://devnishant.co)
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
+
+## Name: Nikita Warrier
+- Place: USA
+- Job: Student
+- GitHub: [nikitawarrier](https://github.com/nikitawarrier)

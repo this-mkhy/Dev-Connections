@@ -1106,6 +1106,14 @@
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
+## Name: Jayathi Mishra
+
+- Place: India
+- Job: Student
+- GitHub: [iamjayathi](https://github.com/iamjayathi)
+- LinkedIn:[Jayathi Mishra](https://www.linkedin.com/in/jayathi-mishra-41b563235)
+- Twitter: [jayathihi](https://twitter.com/jayathihi?s=09)
+
 ## Name: Huzaifa Nizamani
 - Place: Pakistan
 - Job: Student

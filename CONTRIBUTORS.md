@@ -1168,6 +1168,10 @@
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
 
+## Name: Veronica Walton
+* Place: United States of America
+* GitHub: [VeronicaWDev](https://github.com/VeronicaWDev)
+
 ## NAME: Zhihan Tuo
 - Place: United States
 - Job: Student

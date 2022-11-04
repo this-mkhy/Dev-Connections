@@ -1069,12 +1069,24 @@
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
+## Name: Huzaifa Nizamani
+- Place: Pakistan
+- Job: Student
+- GitHub: [HuzaifaNizamani](https://github.com/HuzaifaNizamani)
+- LinkedIn: [Huzaifa Nizamani](https://www.linkedin.com/in/huzaifa-nizamani-038065231/)
+
+## Name: Boshra Jaber
+* Place: Jordan
+* Job: Web Developer
+* GitHub: [BoshraJaber](https://github.com/BoshraJaber)
+* LinkedIn: [boshra-jaber](https://www.linkedin.com/in/boshra-jaber/)
+* Portfolio: [Resume](https://boshrajaber.github.io/Boshra-Jaber-Resume/)
+
 ## Name: Aakarsh Jain
 
 - Place: India
 - GitHub: [BlackPanther112358](https://github.com/BlackPanther112358)
-- LinkedIn:
-  [Mohamed Khaled Yousef](linkedin.com/in/aakarsh-jain-4aba91223)
+- LinkedIn: [Aakarsh Jain](linkedin.com/in/aakarsh-jain-4aba91223)
 
 ## Name: Kayhan
 - Place: Turkey
@@ -1090,6 +1102,12 @@
 - GitHub: [Dharshan-J](https://github.com/Dharshan-J)
 - LinkedIn: [Dharshan J](https://www.linkedin.com/in/dharshan-j/)
 - Portfolio: [Dharshan J](https://19euit041.wixsite.com/my-site-2/)
+
+## Name: Diego Tamayo
+- Place: Colombia, South america
+- Job: system engineer
+- GitHub: [diegot1998](https://github.com/diegot1998)
+- LinkedIn:[Diegot1998](https://www.linkedin.com/in/Diegot1998/)
 
 ## Name: Daryl Lukas
  * Place: Zambia
@@ -1117,3 +1135,20 @@
 - Place: United States
 - Job: Student
 - GitHub: [ZhihanTuo](https://github.com/ZhihanTuo)
+
+## Name: Nikita Warrier
+- Place: USA
+- Job: Student
+- GitHub: [nikitawarrier](https://github.com/nikitawarrier)
+
+## Name: Pu Kao
+- Place: Taiwan
+- Job: Student
+- GitHub: [oakup](https://github.com/oakup)
+- LinkedIn: [pukao](https://www.linkedin.com/pukao)
+
+## Name: Naj Nashmin
+- Place: United States
+- Job: Software Engineer
+- GitHub: [unnamedrd](https://github.com/unnamedrd)
+- Twitter: [theunnamedroad](https://twitter.com/theunnamedroad)

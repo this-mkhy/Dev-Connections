@@ -1,10 +1,3 @@
-## Name: Felipe Pedreros
-
--   Place: Colombia
--   Job: 3D designer
--   GitHub: [AFPedreros](https://github.com/AFPedreros)
--   LinkedIn: [Felipe Pedreros](https://www.linkedin.com/in/afelipe-pedreros/)
--   Twitter: [FelipePedrerosS](https://twitter.com/FelipePedrerosS)
 
 ## Name: Mohamed Khaled Yousef
 
@@ -955,7 +948,6 @@
 -   codepen: [shyakalt](https://codepen.io/shyakalt)
 
 ## Name: Lucas Pavanelli
-
 -   Place: Brazil
 -   Job: Applied Scientist
 -   GitHub: [pavalucas](https://github.com/pavalucas)
@@ -969,6 +961,20 @@
 -   Job: Student
 -   GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
 -   LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
+
+- Place: Brazil
+- Job: Applied Scientist
+- GitHub: [pavalucas](https://github.com/pavalucas)
+- LinkedIn: [Lucas Pavanelli](https://www.linkedin.com/in/lucas-pavanelli-a49131a5/?locale=en_US)
+- Twitter: [pavalucas](https://twitter.com/pavalucas)
+- Portfolio: [Google Scholar](https://scholar.google.com.br/citations?user=RksOgI0AAAAJ)
+
+## Name: Tharaneeshwaran V U
+
+- Place: India
+- Job: Student
+- GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
+- LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
 ## Name: Siddhi Agarkar
 
@@ -1029,6 +1035,51 @@
 -   GitHub: [ishitaojha](https://github.com/ishitaojha)
 -   LinkedIn: [Ishita Ojhae](https://www.linkedin.com/in/ishita-ojha-2000/)
 
+- Place: France
+- Job: Python Developer
+- GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Patryk Buda
+
+- Place: Cardiff
+- Job: Your Software Engineer
+- GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
+- LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
+
+## Name: YJ You
+* Place: New Zealand
+* Job: Frontend software developer
+* GitHub: [DEV-YJY](https://github.com/DEV-YJY)
+* LinkedIn: [YJ You](https://www.linkedin.com/feed/)
+
+## Name: Arun Gound
+- Place: india
+- Job: college Student
+- Github: [kakkarot0](https://github.com/kakkarot0)
+- LinkedIn: [Arun Gound](https://www.linkedin.com/in/arun-gound-80463821a/)
+
+## Name: Patryk Buda
+ * Place: Cardiff
+ * Job: Your Software Engineer
+ * GitHub: [Coldplayer1995](https://github.com/Coldplayer1995)
+ * LinkedIn: [Patryk Buda](https://www.linkedin.com/in/patrykbuda/)
+
+## Name: Lucyan Ovídio
+
+- Place: Brazil
+- Job: Freelance Frontend Developer
+- Github: [lucyanovidio](https://github.com/lucyanovidio)
+- LinkedIn: [Lucyan Ovídio](https://www.linkedin.com/in/lucyanovidio)
+- Twitter: [@lucyanovidio](https://twitter.com/lucyanovidio)
+- Portfolio: [Lucyan Ovídio](https://lucyanovidio.vercel.app)
+
+## Name: Ishita Ojha
+
+- Place: India
+- Job: Student
+- GitHub: [ishitaojha](https://github.com/ishitaojha)
+- LinkedIn: [Ishita Ojhae](https://www.linkedin.com/in/ishita-ojha-2000/)
+
 ## Name: Enkhbaatar
 
 -   Place: Japan
@@ -1050,3 +1101,111 @@
 -   Place: India
 -   GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 -   LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+- Place: India
+- GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
+- LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
+
+## Name: Huzaifa Nizamani
+- Place: Pakistan
+- Job: Student
+- GitHub: [HuzaifaNizamani](https://github.com/HuzaifaNizamani)
+- LinkedIn: [Huzaifa Nizamani](https://www.linkedin.com/in/huzaifa-nizamani-038065231/)
+
+## Name: Boshra Jaber
+* Place: Jordan
+* Job: Web Developer
+* GitHub: [BoshraJaber](https://github.com/BoshraJaber)
+* LinkedIn: [boshra-jaber](https://www.linkedin.com/in/boshra-jaber/)
+* Portfolio: [Resume](https://boshrajaber.github.io/Boshra-Jaber-Resume/)
+
+## Name: Aakarsh Jain
+
+- Place: India
+- GitHub: [BlackPanther112358](https://github.com/BlackPanther112358)
+- LinkedIn: [Aakarsh Jain](linkedin.com/in/aakarsh-jain-4aba91223)
+
+## Name: Kayhan
+- Place: Turkey
+- Job: Student
+- GitHub: [SwitchAlpha](https://github.com/switchalpha)
+- Twitter: [@switchalpha](https://twitter.com/switchalpha)
+- Portfolio: [Portfolio](http://switchalpha.dev/)
+
+## Name: Dharshan J
+
+- Place: India
+- Job: Software Developer Intern
+- GitHub: [Dharshan-J](https://github.com/Dharshan-J)
+- LinkedIn: [Dharshan J](https://www.linkedin.com/in/dharshan-j/)
+- Portfolio: [Dharshan J](https://19euit041.wixsite.com/my-site-2/)
+
+## Name: Diego Tamayo
+- Place: Colombia, South america
+- Job: system engineer
+- GitHub: [diegot1998](https://github.com/diegot1998)
+- LinkedIn:[Diegot1998](https://www.linkedin.com/in/Diegot1998/)
+
+## Name: Daryl Lukas
+ * Place: Zambia
+ * Job: Software Engineer | Developer Advocate
+ * GitHub: [daryllukas](https://github.com/daryllukas)
+ * LinkedIn: [Daryl Lukas](https://www.linkedin.com/in/daryllukas)
+ * Twitter: [daryllukas](https://twitter.com/daryllukas)
+ * Portfolio: [Daryl Lukas](https://daryllukas.me)
+
+## Name: Henrique Oliveira
+- Place: Brasil
+- Job: Student
+- GitHub: [pand-oly](https://github.com/pand-oly)
+- LinkedIn:[Rick Oly](https://www.linkedin.com/in/rick-oly/)
+
+## Name: Nishant Jain
+- Place: India
+- Job: Student
+- GitHub: [Nishantjain10](https://github.com/Nishantjain10)
+- Portfolio: [Nishant Jain](http://devnishant.co)
+- LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
+- Twitter: [devnishant10](https://twitter.com/devnishant10)
+
+## NAME: Zhihan Tuo
+- Place: United States
+- Job: Student
+- GitHub: [ZhihanTuo](https://github.com/ZhihanTuo)
+
+## Name: Nikita Warrier
+- Place: USA
+- Job: Student
+- GitHub: [nikitawarrier](https://github.com/nikitawarrier)
+
+## Name: Pu Kao
+- Place: Taiwan
+- Job: Student
+- GitHub: [oakup](https://github.com/oakup)
+- LinkedIn: [pukao](https://www.linkedin.com/pukao)
+
+## Name: Naj Nashmin
+- Place: United States
+- Job: Software Engineer
+- GitHub: [unnamedrd](https://github.com/unnamedrd)
+- Twitter: [theunnamedroad](https://twitter.com/theunnamedroad)
+
+## Name: Gaurav Kumar
+- Place: India
+- Job: Software Engineer
+- GitHub: [slashgk](https://github.com/slashgk)
+- LinkedIn: [Gaurav Kumar](https://www.linkedin.com/in/gaurav-kr/)
+
+## Name: Felipe Pedreros
+
+-   Place: Colombia
+-   Job: 3D designer
+-   GitHub: [AFPedreros](https://github.com/AFPedreros)
+-   LinkedIn: [Felipe Pedreros](https://www.linkedin.com/in/afelipe-pedreros/)
+-   Twitter: [FelipePedrerosS](https://twitter.com/FelipePedrerosS)
+
+## Name: Nandini Mehta
+* Place: India
+* Job: Student
+* GitHub: [NandiniMehta0603](https://github.com/NandiniMehta0603)
+* LinkedIn: [Nandini Mehta](https://www.linkedin.com/in/nandini-mehta-0492ab204/)

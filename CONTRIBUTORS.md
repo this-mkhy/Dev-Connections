@@ -1069,6 +1069,11 @@
 - GitHub: [sharmatanikesh](https://github.com/sharmatanikesh)
 - LinkedIn:[Tanikesh Sharma](https://www.linkedin.com/in/tanikesh-sharma-25b924230/)
 
+## Name: Huzaifa Nizamani
+- Place: Pakistan
+- Job: Student
+- GitHub: [HuzaifaNizamani](https://github.com/HuzaifaNizamani)
+- LinkedIn: [Huzaifa Nizamani](https://www.linkedin.com/in/huzaifa-nizamani-038065231/)
 
 ## Name: Boshra Jaber
 * Place: Jordan
@@ -1081,8 +1086,7 @@
 
 - Place: India
 - GitHub: [BlackPanther112358](https://github.com/BlackPanther112358)
-- LinkedIn:
-  [Mohamed Khaled Yousef](linkedin.com/in/aakarsh-jain-4aba91223)
+- LinkedIn: [Aakarsh Jain](linkedin.com/in/aakarsh-jain-4aba91223)
 
 ## Name: Kayhan
 - Place: Turkey

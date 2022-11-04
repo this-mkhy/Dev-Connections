@@ -1131,6 +1131,12 @@
 - LinkedIn: [Nishant Jain](https://www.linkedin.com/in/nishantj2002/)
 - Twitter: [devnishant10](https://twitter.com/devnishant10)
 
+## Name: Pu Kao
+- Place: Taiwan
+- Job: Student
+- GitHub: [oakup](https://github.com/oakup)
+- LinkedIn: [pukao](https://www.linkedin.com/pukao)
+
 ## Name: Naj Nashmin
 - Place: United States
 - Job: Software Engineer

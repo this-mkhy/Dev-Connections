@@ -1221,3 +1221,10 @@
 * Job: Student
 * GitHub: [NandiniMehta0603](https://github.com/NandiniMehta0603)
 * LinkedIn: [Nandini Mehta](https://www.linkedin.com/in/nandini-mehta-0492ab204/)
+
+## Name: Nicollas Holz Eberhardt
+* Place: Brazil
+* Job: Student
+* GitHub: [NicollasHolz](https://github.com/NicollasHolz)
+* LinkedIn: [Nicollas Holz Eberhardt](https://www.linkedin.com/in/nicollas-holz-eberhardt-490327232/)
+* Twitter: [Holz_Nicollas](https://twitter.com/Holz_Nicollas)
